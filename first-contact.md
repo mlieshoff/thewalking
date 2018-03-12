@@ -167,34 +167,27 @@ Ende.
 <div class='classTable wide'>
 <img src='https://vignette.wikia.nocookie.net/walkingdead/images/d/df/Fear-the-walking-dead-season-1-daniel-blades-cast-portrait-658.jpg/revision/latest?cb=20150918190511' 
   style='height: 250px; width:200px' />
-## Personen: Daniel Salazar
+## Personen: Daniel Salazar, Stufe 18
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |84    |           |
 |Panzerung          |0     |           |
-|Initiative         |15    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |12    |           |
+|Attacke            |18    | +6        |
+|Parade             |18    | +6        |
+|Schadensbonus      |4     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |12    |           |
-|Geschicklichkeit   |12    |           |
-|Konstitution       |11    |           |
-|Masse              |12    |           |
-|Intelligenz        |13    | +1        |
-|Talent             |10    |           |
+|Mut                |15    |           |
+|Klugheit           |13    |           |
 |Charisma           |11    |           |
-|Selbstdisziplin    |11    |           |
-|**Fertigkeiten**   |      |           |
-|Lenken (Auto)      |11    |           |
-|Einschüchtern      |12    |           |
-|Foltern            |12    |           |
+|Geschicklichkeit   |18    |           |
+|Körperkraft        |16    |           |
 |**Waffen**         |      |           |
-|Militärischer Nahk.|A:18, P:17|Schaden: 1W2, Kritisch -> Tod |
-|Kampfmesser        |A:19, P:14|Schaden: ???                  |
-|Gewehr             |A:18, P:9 |           |
-|Pistole            |A:18, P:4 |           |
+|Militärischer Nahk.|      |crit = tot |
 |**Ausrüstung**     |      |           |
+|Normale Kleidung   |      |           |
+|Pistole            |      |           |
+|Messer             |      |           |
 
 </div>
 
@@ -208,26 +201,19 @@ Ende.
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |16    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |11    |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |10    |           |
-|Geschicklichkeit   |11    |           |
-|Konstitution       |10    |           |
-|Masse              |11    |           |
-|Intelligenz        |13    |           |
-|Talent             |11    |           |
-|Charisma           |14    |           |
-|Selbstdisziplin    |12    |           |
-|**Fertigkeiten**   |      |           |
-|Kochen             |12    |           |
-|**Waffen**         |      |           |
-|Ringen             |A:10,P:8|Schaden:???|
+|Mut                |10    |           |
+|Klugheit           |12    |           |
+|Charisma           |13    |           |
+|Geschicklichkeit   |12    |           |
+|Körperkraft        |10    |           |
 |**Ausrüstung**     |      |           |
-
+|Normale Kleidung   |      |           |
 </div>
 
 
@@ -241,25 +227,19 @@ src='https://cdnws.skybound.com/the-walking-dead/wp-content/uploads/sites/2/2015
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |14    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |12    |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |10    |           |
-|Geschicklichkeit   |12    |           |
-|Konstitution       |11    |           |
-|Masse              |12    |           |
-|Intelligenz        |13    |           |
-|Talent             |10    |           |
+|Mut                |11    |           |
+|Klugheit           |12    |           |
 |Charisma           |14    |           |
-|Selbstdisziplin    |10    |           |
-|**Fertigkeiten**   |      |           |
-|Kochen             |10    |           |
-|**Waffen**         |      |           |
-|Ringen             |A:8,P:6|Schaden:???|
+|Geschicklichkeit   |10    |           |
+|Körperkraft        |10    |           |
 |**Ausrüstung**     |      |           |
+|Normale Kleidung   |      |           |
 
 </div>
 
@@ -273,30 +253,22 @@ src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBHHviiHOzUIp_n29e06
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
-|Panzerung          |0     |           |
-|Initiative         |14    |           |
-|Bewegungsweite     |2     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |14    |Kopf muss zerstört werden|
+|Lebenspunkte       |-     |nur Kopf   |
+|Panzerung          |-     |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |5     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |18    |           |
+|Mut                |10    |           |
+|Klugheit           |10    |           |
+|Charisma           |10    |           |
 |Geschicklichkeit   |10    |           |
-|Konstitution       |14    |           |
-|Masse              |14    |           |
-|Intelligenz        | 8    |           |
-|Talent             |10    |           |
-|Charisma           | 8    |           |
-|Selbstdisziplin    |10    |           |
-|**Fertigkeiten**   |      |           |
-|Riechen            |10    |           |
-|Sehen              |10    |           |
-|Hören              |10    |           |
-|Heimlichkeit       |10    |           |
+|Körperkraft        |17    |           |
 |**Waffen**         |      |           |
-|Ringen             |A:14,P:8|           |
-|Biss               |A:12,P:0|           |
+|Biss               | 1W6  |infektiös  |
+|Faust              |      |           |
 |**Ausrüstung**     |      |           |
-
+|Normale Kleidung   |      |           |
 </div>
 
 \page
@@ -309,32 +281,23 @@ src='http://www.worstpreviews.com/images/headlines/headline1119.gif'
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
-|Panzerung          |0     |           |
-|Initiative         |      |           |
-|Bewegungsweite     |12    |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |13    |Kopf muss zerstört werden|
+|Lebenspunkte       |-     |nur Kopf   |
+|Panzerung          |-     |           |
+|Attacke            |10    |+1         |
+|Parade             |8     |           |
+|Schadensbonus      |2     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |16    |           |
-|Geschicklichkeit   |14    |           |
-|Konstitution       |14    |           |
-|Masse              |12    |           |
-|Intelligenz        | 8    |           |
-|Talent             |10    |           |
-|Charisma           | 8    |           |
-|Selbstdisziplin    |10    |           |
-|**Fertigkeiten**   |      |           |
-|Riechen            |10    |           |
-|Sehen              |10    |           |
-|Hören              |10    |           |
-|Heimlichkeit       |10    |           |
-|Athletik           |10    |           |
+|Mut                |10    |           |
+|Klugheit           |10    |           |
+|Charisma           |10    |           |
+|Geschicklichkeit   |13    |           |
+|Körperkraft        |14    |           |
 |**Waffen**         |      |           |
-|Ringen             |A:14,P:8|           |
-|Biss               |A:12,P:0|           |
-|Sprung             |A:12,P:0|Schaden: +1W3 |
+|Biss               | 1W6  |infektiös  |
+|Faust              |      |           |
+|Sprung             |      |KK-Widerstand, sonst gefallen, 2* so schnell wie normal |
 |**Ausrüstung**     |      |           |
-
+|Normale Kleidung   |      |           |
 </div>
 
 

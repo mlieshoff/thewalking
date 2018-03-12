@@ -1,13 +1,9 @@
 # Die Wandelnden 
-## Zusatzregeln für Chalkous
+## Zusatzregeln für DSA 1
 
 ### Erschaffe einen Charakter
 
 Jeder Charakter startet mit einem Mindestalter von 18 Jahren. Das Alter kann am Ende der Charakterwahl entschieden werden. 
-
-#### Initiative
-
-Die **Initiative** erhält einen festen Wert, **Selbstdisziplin** + 4.
 
 #### Verantwortung
 
@@ -43,38 +39,50 @@ Sind alle vier Tabellen ausgerollt, wird der Code unter "Code" eingetragen und d
 
 ##### Erste Codeziffer: Der Familienstand
 
-| w8 | Familienstand | Verantwortung | Emotionen | Partner |
-|:--:|:--------------|:-------------:|:---------:|:-------:|
-| 1-2| Ledig         | -             | -         | nein    |
-|  3 | In Beziehung  | +1            | -         | ja      |
-|  4 | Verlobt       | +1            | -         | ja      |
-|  5 | Verheiratet   | +2            | -         | ja      |
-|  6 | Getrennt      | +1            | -1        | nein    |
-|  7 | Geschieden    | +1            | -2        | nein    |
-|  8 | Verwitwet     | -             | -3        | nein    |
+| 2w6 | Familienstand | Verantwortung | Emotionen | Partner | Code |
+|:---:|:--------------|:-------------:|:---------:|:-------:|:----:|
+| 2   | Ledig         | -             | -         | nein    | 1    |
+| 3-4 | In Beziehung  | +1            | -         | ja      | 2    |
+| 5-6 | Verlobt       | +1            | -         | ja      | 3    |
+| 7-8 | Verheiratet   | +2            | -         | ja      | 4    |
+| 9-10| Getrennt      | +1            | -1        | nein    | 5    |
+|   11| Geschieden    | +1            | -2        | nein    | 6    |
+|   12| Verwitwet     | -             | -3        | nein    | 7    |
 
 * Bei Charakteren, die einen Partner haben, ist dieser im Spiel mit dabei und wird vom Spielleiter sorgsam gespielt. 
 
-##### Zweite Codeziffer: Nachkommen
-| w8 | Ergebnis           | Verantwortung |
-|:--:|:-------------------|:-------------:|
-| 1-2| Nichts             | -             |
-|  3 | Schwanger          | +2            |
-|  4 | 1 Kind             | +2            |
-|  5 | 2 Kinder           | +4            |
-|  6 | 1 Teenager         | +2            |
-|  7 | 2 Teenager         | +4            |
-|  8 | 1 Heranwachsender  | +2            |
+##### Zweite Codeziffer: Beziehung zum Partner
+| 2w6 | Ergebnis           | Verantwortung | Emotionen | Code |
+|:---:|:-------------------|:-------------:|:---------:|:----:|
+| 2   | Frisch verliebt    | +3            | -         | 1    |
+| 3-4 | Liebe              | +2            | -         | 2    |
+| 5-6 | Liebe, eifersüchtig| +1            | -         | 3    |
+| 7-8 | Gewöhnt            | -             | -         | 4    |
+| 9-10| Keinerlei Liebe    | -             | -1        | 5    |
+|   11| Abstoßend          | -             | -2        | 6    |
+|   12| Hass               | -             | -3        | 7    |
+
+
+##### Dritte Codeziffer: Nachkommen
+| 2w6 | Ergebnis           | Verantwortung | Code |
+|:---:|:-------------------|:-------------:|:----:|
+| 2   | Nichts             | -             | 1    |
+| 3-4 | Schwanger          | +2            | 2    |
+| 5-6 | 1 Kind             | +2            | 3    |
+| 7-8 | 2 Kinder           | +4            | 4    |
+| 9-10| 1 Teenager         | +2            | 5    |
+|   11| 2 Teenager         | +4            | 6    |
+|   12| 1 Heranwachsender  | +2            | 7    |
 
 * Bei Charakteren mit Nachkommen und Familienstand ohne Partner wird 1W8.
 * Treten hier im Laufe des Spiels Verluste auf, so verliert der Charakter pro Nachkommen 4 Punkte an Emotionen.
 
-##### Dritte Codeziffer: Aufenthalt Nachkommen
-| w8 | Ergebnis              | Verantwortung |
-|:--:|:----------------------|:-------------:|
-| 1-2| Bei keinem von beiden | -             |
-| 3-6| Bei Partner           | +2 pro        |
-| 7-8| Bei Charakter         | +2 pro        |
+##### Vierte Codeziffer: Aufenthalt Nachkommen
+| 2w6 | Ergebnis              | Verantwortung | Code |
+|:---:|:----------------------|:-------------:|:----:|
+| 2-3 | Bei keinem von beiden | -             | 1    |
+| 4-8 | Bei Partner           | +2 pro        | 2    |
+| 9-12| Bei Charakter         | +2 pro        | 3    |
 
 * Bei schwangeren wird hier enteder eine 3 (bei Partner) oder eine 7 (bei Charakter) eingetragen, je nach dem wer schwanger ist.
 * Bei Familienstand "mit Partner", wir hier ebenfalls eine 3 eingetragen	
@@ -82,14 +90,14 @@ Sind alle vier Tabellen ausgerollt, wird der Code unter "Code" eingetragen und d
 \page
 
 
-##### Vierte Codeziffer: Das Leben ist hart
-| w8 | Ergebnis                   | Verantwortung | Emotionen |
-|:--:|:---------------------------|:-------------:|:---------:|
-| 1  | Nachkommen Verstorben      | -             | -4 pro    |
-| 2  | Nachkommen braucht Pillen  | +2 pro        | -         |
-| 3  | Partner braucht Pillen     | +1            | -         |
-| 4  | Charakter braucht Pillen   | -             | -         |
-| 5-8| Schwein gehabt!            | -             | -         |
+##### Fünfte Codeziffer: Das Leben ist hart
+| 2w6 | Ergebnis                   | Verantwortung | Emotionen | Code |
+|:---:|:---------------------------|:-------------:|:---------:|:----:|
+| 2   | Nachkommen Verstorben      | -             | -4 pro    | 1    |
+| 3-4 | Nachkommen braucht Pillen  | +2 pro        | -         | 2    |
+| 5-6 | Partner braucht Pillen     | +1            | -         | 3    |
+| 7-8 | Charakter braucht Pillen   | -             | -         | 4    |
+| 9-12| Schwein gehabt!            | -             | -         | 5    |
 
 * TODO Abhängigkeiten: Drogen usw.
 * "Braucht Pillen" bedeutet, daß derjenige täglich ein Medikament aus einer herkömmlichen Apotheke benötigt, er startet das Spiel einem Monatsvorrat. Geht dieser zu Ende, wird der Charakter binnen 14 Tagen sterben.
@@ -116,30 +124,18 @@ Im folgenden stehen einige der Basis-Charaktere zu Auswahl. Der Spieler entschei
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |16    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |12    |           |
+|Attacke            |10    |+1         |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |11    |           |
-|Geschicklichkeit   |12    |           |
-|Konstitution       |11    |           |
-|Masse              |13    |           |
-|Intelligenz        |12    |           |
-|Talent             |10    |           |
-|Charisma           |11    |           |
-|Selbstdisziplin    |12    |           |
-|**Fertigkeiten**   |      |           |
-|Wahrnehmen (Sehen) |12    |TL         |
-|Einschätzen        |12    |TL         |
-|Beredsamkeit       |12    |CH         |
-|Wissen (Warenkunde)|11    |IN         |
-|Ausweichen         | 6    |GE         |
+|Mut                |10    |           |
+|Klugheit           |11    |           |
+|Charisma           |12    |           |
+|Geschicklichkeit   |13    |           |
+|Körperkraft        |11    |           |
 |**Waffen**         |      |           |
-|Faust              |11/10 |ST         |
-|Ringen             |10/9  |ST         |
-|Gewehr             |13    |GE         |
 |**Ausrüstung**     |      |           |
 |Normale Kleidung   |      |           |
 
@@ -153,37 +149,26 @@ Im folgenden stehen einige der Basis-Charaktere zu Auswahl. Der Spieler entschei
   style='height: 250px; width:250px; float: right'>
 </img>
   <span style="vertical-align: top">
-  Der Polizist stand bis zu den Impfungen im Dienst, genau an diesem Tag hat er sich dienstfri genommen.
+  Der Polizist stand bis zu den Impfungen im Dienst, genau an diesem Tag hat er sich dienstfri genommen. 
   </span>
 
 ##### PolizistIn
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |16    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |12    |           |
+|Attacke            |10    |+1         |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |12    |           |
-|Geschicklichkeit   |12    |           |
-|Konstitution       |12    |           |
-|Masse              |11    |           |
-|Intelligenz        |13    |           |
-|Talent             |10    |           |
+|Mut                |12    |           |
+|Klugheit           |10    |           |
 |Charisma           |10    |           |
-|Selbstdisziplin    |12    |           |
-|**Fertigkeiten**   |      |           |
-|Erste Hilfe        |12    |GE         |
-|Spurenlesen        |10    |TL         |
-|Ausweichen         |6     |GE         |
+|Geschicklichkeit   |13    |           |
+|Körperkraft        |12    |           |
 |**Waffen**         |      |           |
-|Faust              |12/12 |ST, Schaden: +1W2         |
-|Ringen             |10/ 9 |ST         |
-|Maschinenpistole   |10    |GE         |
-|Pistole            |12    |GE         |
-|Selbsverteidigung  |13    |GE, Schaden: +1W2        |
+|Selbstverteidigung |      |           |
 |**Ausrüstung**     |      |           |
 |Normale Kleidung   |      |           |
 |Kleiner Rucksack   |      |           |
@@ -207,30 +192,18 @@ Im folgenden stehen einige der Basis-Charaktere zu Auswahl. Der Spieler entschei
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |15    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |12    |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |1     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |13    |           |
-|Geschicklichkeit   |11    |           |
-|Konstitution       |12    |           |
-|Masse              |12    |           |
-|Intelligenz        |12    |           |
-|Talent             |10    |           |
-|Charisma           |11    |           |
-|Selbstdisziplin    |11    |           |
-|**Fertigkeiten**   |      |           |
-|Lenken (Motorrad)  |12    |GE         |
-|Einschüchtern      |12    |TL         |
-|Benehmen (Strasse) |10    |           |
-|Ausweichen         |6     |GE         |
+|Mut                |12    |           |
+|Klugheit           |10    |           |
+|Charisma           |10    |           |
+|Geschicklichkeit   |12    |           |
+|Körperkraft        |13    |           |
 |**Waffen**         |      |           |
-|Faust              |12/11 |ST, Schaden: +1W2 |
-|Ringen             |10/ 9 |ST         |
-|Bogen oder Armbrust|15/   |GE         |
-|Messer             |10/ 9 |ST, Schaden: +1W2         |
 |**Ausrüstung**     |      |           |
 |Normale Kleidung   |      |           |
 |Sporttasche        |      |           |
@@ -255,29 +228,19 @@ Im folgenden stehen einige der Basis-Charaktere zu Auswahl. Der Spieler entschei
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |15    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |12    |           |
+|Attacke            |10    |+1         |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |11    |           |
-|Geschicklichkeit   |12    |           |
-|Konstitution       |11    |           |
-|Masse              |12    |           |
-|Intelligenz        |12    |           |
-|Talent             |11    |           |
+|Mut                |10    |           |
+|Klugheit           |10    |           |
 |Charisma           |12    |           |
-|Selbstdisziplin    |11    |           |
-|**Fertigkeiten**   |      |           |
-|Kochen             |14    |TL         |
-|Klettern           |16    |GE         |
-|Ausweichen         |14    |GE         |
-|Athletik           |12    |GE         |
+|Geschicklichkeit   |13    |           |
+|Körperkraft        |12    |           |
 |**Waffen**         |      |           |
-|Faust              |11/10 |ST, Schaden: +1W2          |
-|Ringen             |10/ 9 |           |
-|Kampfkunst         |16    |GE, Schaden: +1W2         |
+|Kampfkunst         |      |           |
 |**Ausrüstung**     |      |           |
 |Normale Kleidung   |      |           |
 |Kleiner Rucksack   |      |           |
@@ -300,29 +263,17 @@ Im folgenden stehen einige der Basis-Charaktere zu Auswahl. Der Spieler entschei
 | Wertname          | Wert | Bemerkung |
 |:------------------|:----:|:----------|
 |**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
 |Panzerung          |0     |           |
-|Initiative         |14    |           |
-|Bewegungsweite     |6     |           |
-|**Überleben**      |      |           |
-|Lebenspunkte       |13    |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
 |**Eigenschaften**  |      |           |
-|Stärke             |11    |           |
-|Geschicklichkeit   |12    |           |
-|Konstitution       |13    |           |
-|Masse              |12    |           |
-|Intelligenz        |13    |           |
-|Talent             |10    |           |
+|Mut                |11    |           |
+|Klugheit           |12    |           |
 |Charisma           |11    |           |
-|Selbstdisziplin    |10    |           |
-|**Fertigkeiten**   |      |           |
-|Erste Hilfe        |10    |GE         |
-|Ausweichen         |14    |GE         |
-|Athletik           |11    |GE         |
-|Wissen (Technik)   |12    |IN         |
-|**Waffen**         |      |           |
-|Faust              |12/11 |ST, Schaden: +1W2          |
-|Ringen             |10/ 9 |           |
-|Schwert            |16    |ST,Schaden: +1W2         |
+|Geschicklichkeit   |12    |           |
+|Körperkraft        |11    |           |
 |**Ausrüstung**     |      |           |
 |Normale Kleidung   |      |           |
 |Sporttasche        |      |           |
@@ -333,64 +284,118 @@ Im folgenden stehen einige der Basis-Charaktere zu Auswahl. Der Spieler entschei
 \page
 
 
-#### Fertigkeiten
+<div class='classTable wide'>
 
-##### Athletik N GE 1
-##### Ausweichen L GE GEx0.5
-##### Beredsamkeit N CH 0
-##### Einschätzen S TL 2
-##### Einschüchtern  (N) TL 2
-##### (Heilkunde Wunden) Erste Hilfe  N GE 2
-##### Lenken (Auto) N GE 5
-##### Lenken (Motorad)  GE 1
-##### (neu) Foltern  N IN 2
-##### Klettern L GE 8
-##### Kochen N TL 4
-##### Schauspielern N GE 2
-##### Wahrnehmen (Sehen)   L TL 5
-##### Wahrnehmen (Hören)     L TL 5
-##### Wahrnehmen (Riechen)   L TL 5
-##### (neu) Wissen (Technik) S IN 1
-##### (neu) Ringen (N ST 5)
+<img src='https://i.pinimg.com/564x/5d/40/ae/5d40aea415dafbaef6eb654fe27d3456.jpg' 
+  style='height: 250px; width: 250px; float: right'>
+</img>
+  <span style="vertical-align: top">
+  
+  </span>
+
+##### HandwerkerIn
+| Wertname          | Wert | Bemerkung |
+|:------------------|:----:|:----------|
+|**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
+|Panzerung          |0     |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |1     |           |
+|**Eigenschaften**  |      |           |
+|Mut                |10    |           |
+|Klugheit           |11    |           |
+|Charisma           |11    |           |
+|Geschicklichkeit   |12    |           |
+|Körperkraft        |13    |           |
+|**Ausrüstung**     |      |           |
+|Arbeitskombi       |      |           |
+|Rucksack           |      |           |
+|Zimmererhammer     |      |           |
+
+</div>
+
+\page
+
+
+<div class='classTable wide'>
+
+<img src='https://i.pinimg.com/564x/5d/40/ae/5d40aea415dafbaef6eb654fe27d3456.jpg' 
+  style='height: 250px; width: 250px; float: right'>
+</img>
+  <span style="vertical-align: top">
+  
+  </span>
+
+##### SportlehrerIn
+| Wertname          | Wert | Bemerkung |
+|:------------------|:----:|:----------|
+|**Kampf**          |      |           |
+|Lebenspunkte       |30    |           |
+|Panzerung          |0     |           |
+|Attacke            |10    |           |
+|Parade             |8     |           |
+|Schadensbonus      |0     |           |
+|**Eigenschaften**  |      |           |
+|Mut                |10    |           |
+|Klugheit           |12    |           |
+|Charisma           |11    |           |
+|Geschicklichkeit   |12    |           |
+|Körperkraft        |12    |           |
+|**Ausrüstung**     |      |           |
+|Jogginganzug       |      |           |
+|Kleine Sporttasche |      |           |
+
+</div>
+
+\page
+
+
+#### Kampf
+
+##### Ringen
 
 Beim Ringen geht es darum, den Gegner nicht zu verletzen, aber Angriffe abzuwehren und ihn so zu halten, das er nicht weiter angreifen kann.
 
 * Wird der Ringer mittels Nahkampf (unbewaffnet) angegriffen und gelingt ihm eine Parade, so gilt der Angriff als verteidigt.
-* Greift der Ringer mit **Ringen** an und gelingt dem Verteidiger keine Parade, so kann der Verteidiger erst dann wieder angreifen, wenn ihm eine *Stärke* Probe gelingt, dabei muss es die Differenze der **Stärke** des Angreifers entweder als Erleichterung (wenn er stärker ist) oder als Erschwernis rechnen.
+* Greift der Ringer mit **Ringen** an und gelingt dem Verteidiger keine Parade, so kann der Verteidiger erst dann wieder angreifen, wenn ihm eine *Körperkraft* Probe gelingt, dabei muss es die Differenz der **Körperkraft** des Angreifers entweder als Erleichterung (wenn er stärker ist) oder als Erschwernis rechnen.
 
-##### Faust (L ST 5)
-##### (neu) Sprungangriff
-##### (neu) Biss
-##### (neu) Militärischer Nahkampf (BLx2 S GE 0)
-##### Kampfkunst (BLx2 S GE 0)
-##### (neu) Selbstverteidigung (BLx2 S GE 0)
-##### Messer (auch Kampfmesser) (N ST 3)
-##### Gewehr (N GE 3)
-##### Sturmgewehr (N GE 4)
-##### Maschinenpistole ( N GE 2)
-##### Pistole (N GE 4)
-##### Bogen (S GE 1)
-##### Armbrust ( N GE 5)
-##### Schwert ( N ST 3)
-##### Stab (N ST 4)
-##### (neu) Kurzstange ((N ST 5))
+##### Kampfkunst
+
+Möchte ein Spieler mit **Kampfkunst** kämpfen, so muß er dies ansagen. Von nun an erhält er **Attacke** +4 und **Parade** +3 und kämpft **waffenlos**.
+
+##### Selbstverteidigung
+
+Möchte ein Spieler mit **Selbstverteidigung** kämpfen, so muß er dies ansagen. Von nun an erhält er **Attacke** +1 und **Parade** +4 und kämpft **waffenlos**.
+
+\page
 
 #### Waffen
 
-##### Pistole (S 1W10*, ST - / GE 9, RS 4, RW 80m, ZV 3, ZG 0, LK 10, FF 2 / KR.)
-##### Gewehr (S 1W8+1W6, RS 5, GE/ST 9/11, RW 90m, ZG 0, LK/FF 15/1, ZV 0)
-##### Sturmgewehr (Gewehr, S 2W8*, ST 10 / GE 12, RS 6, RW 400m, ZV 3, ZG +1, LK 30, FF 20.)
-##### Maschinenpistole (S 1W10*, ST - / GE 9, RS 4, RW 80m, ZV 3, ZG 0, LK 10, FF 2 / KR.)
+<div class='wide'>
+##### Schußwaffen
+| Name             | Trefferpunkte | Reichweite | Nachladedauer | Magazin |Modus|
+|:----------------:|:-------------:|:----------:|:-------------:|:-------:|:---:|
+| Gewehr           | 3W6+6         |600         |1KR            |5        |E    |
+| Sturmgewehr      | 2W6+6         |400         |1KR            |20       |E/S/A|
+| Pistole          | 1W6+6         |50          |1KR            |6        |E    |
+| MP               | 1W6+6         |75          |1KR            |21       |E/S/A|
+| Kompositarmbrust | 1W6+4         |200         |2KR            |-        |E    |
+| Kompositbogen    | 1W6+4         |30          |1KR            |-        |E    |
+</div>  
 
-##### Kompositarmbrust 2KR
-
-##### Kompositbogen 1KR
-
-##### Katana (S 1W10+5, RS 5, GE/ST 11/11)
-##### Machete (S 1W8, RS 8, GE/ST 7/7)
-##### Kampfmesser
-##### Brechstange
-##### Holzstab
+<div class='wide'>
+##### Nahkampfwaffen
+| Name             | Trefferpunkte | Attacke | Parade | Bruchfaktor |
+|:----------------:|:-------------:|:-------:|:------:|:-----------:|
+| Katana           | 1W6+6         | -2      | -3     | 2           |
+| Machete          | 1W6+4         |  0      |  0     | 2           |
+| Messer           | 1W6           |  0      | -5     | 5           |
+| Kampfmesser      | 1W6+1         | -1      | -4     | 3           |
+| Brechstange      | 1W6+3         | -1      | -3     | 1           |
+| Holzstab         | 1W6+1         |  0      | -2     | 6           |
+| Zimmererhammer   | 1W6+2         |  0      | -2     | 3           |
+</div>  
 
 \page
 
@@ -402,7 +407,7 @@ Beim Ringen geht es darum, den Gegner nicht zu verletzen, aber Angriffe abzuwehr
 |:---|:---|
 | Beruf: |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
 | Herkunft: |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
-| Lebt in: |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
+| Lebt in:  Gesch|&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
 </div>
 
 <div class='classTable'>
@@ -501,5 +506,119 @@ Beim Ringen geht es darum, den Gegner nicht zu verletzen, aber Angriffe abzuwehr
 |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|&#095;&#095;&#095;&#095;|&#095;&#095;|+|&#095;&#095;|o|
 |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|&#095;&#095;&#095;&#095;|&#095;&#095;|+|&#095;&#095;|o|
 </div>
+
+\page
+
+
+### Name:
+<div class='classTable'>
+##### Daten
+| | |
+|:---|:---|
+| Beruf: |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
+| Herkunft: |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
+| Lebt in: |&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;|
+</div>
+
+<div class='classTable'>
+##### Eigenschaften
+| Eigenschaft | Wert |
+|:---:|:---|
+| Mut | &#095;&#095;&#095;&#095; |
+| Klugheit | &#095;&#095;&#095;&#095; |
+| Charisma | &#095;&#095;&#095;&#095; |
+| Geschicklichkeit | &#095;&#095;&#095;&#095; |
+| Körperkraft | &#095;&#095;&#095;&#095; |
+</div>
+
+<div class='classTable'>
+##### Waffen
+| Name | Schaden | Attacke +- | Parade +- | RS / RW |
+|:---:|:---:|:---:|:---:|:---:|
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+| &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095; | &#095;&#095;&#095;&#095;&#095;&#095; |
+</div>
+
+<div class='classTable'>
+##### Notizen
+| |
+|:---:||
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+</div>
+
+```
+```
+
+### Spieler:
+
+<div style='column-count:2'>
+##### Überleben
+| | |
+|:---|:------------|
+| Verantwortung: | &#095;&#095;&#095;&#095; |
+| Emotionen: | &#095;&#095;&#095;&#095; |
+| Erfahrung: | &#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095;&#095; |
+| Stufe | &#095;&#095;&#095;&#095; |
+| Code: | &#095;&#095;&#095;&#095; |
+
+```
+```
+<img 
+  src='http://www.thechurchguide.com/spiritual-warfare_htm_files/87.png' 
+  style='text-align:center; width:150px; height: 150px' />  
+
+</div>
+
+<div class='classTable'>
+##### Kampf
+| | |
+|:---:|:---|
+| Lebenspunkte: | &#095;&#095;&#095;&#095; &#095;&#095;&#095;&#095; &#095;&#095;&#095;&#095; &#095;&#095;&#095;&#095; &#095;&#095;&#095;&#095; &#095;&#095;&#095;&#095; &#095;&#095;&#095;&#095; 
+| Panzerung: | &#095;&#095;&#095;&#095;
+| Attacke: | &#095;&#095;&#095;&#095;
+| Parade: | &#095;&#095;&#095;&#095;
+| Schadenbonus: | &#095;&#095;&#095;&#095;
+</div>
+
+<div class='classTable'>
+##### Ausrüstung
+| |
+|:---:||
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+| &nbsp;|
+</div>
+
 
 
