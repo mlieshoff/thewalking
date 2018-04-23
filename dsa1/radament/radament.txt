@@ -1,0 +1,978 @@
+# Die Legende von Radament
+
+<img 
+  src='https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F736x%2F35%2F6d%2F7a%2F356d7a1f71cf11b199ac7a0890c4c379--diablo--raven.jpg&f=1' 
+  style='width:325px' />
+
+## Handlungsstrang
+
+Die Handlung spielt im Dorf **Norderbrunn**, etwa drei Tagesreisen entfernt von der Stadt **Greifenfurt**.
+
+Die Spieler sind gerade arbeitslos werden in einer Schenke von einem Arbeitsvermittler angesprochen. Sie sollen einen Händler bis nach XXX begleiten, da es seit einiger Zeit in dieser Gegend  immer wieder zu Überfällen durch Goblins gekommen ist. Die Hälfte der Belohnung bekommen sie, wenn sie am nächsten Morgen aufbrechen, die andere Hälfte, wenn sie ihm die Bestätigung der Übergabe mitbringen.
+
+Auf dem Weg dorthin, wird es einen oder zwei mögliche Überfälle geben.
+
+Im Dorf angekommen erfahren die Spieler das der Dorfälteste verschwunden ist, dieser sollte auch eine Bestätigung der Lieferung geben. Außerdem soll es auf dem nahegelegenen Friedhof neuerdings spuken. 
+
+Es gehen Gerüchte umher, das der Älteste von einer Scharr Goblins entführt wurde, diese halten sich wohl in der Gegend auf. Außderm bietet der Dorfmagier den Spielern eine kleine Belohnung, wenn sie ihm ein Familienerbstück mitbringen, einen Dolch, den die Goblins bei einem der Überfälle gestohlen haben.
+Wenn die Spieler diesem nachgehen, werden sie die Orks finden und wahrscheinlich töten. Dabei werden sie in dem Goblinschatz einen merkwürdigen Schlüssel finden. Vom Ältesten gibt es keine Spur. Die Spieler finden auch den Dolch des Dorfmagiers.
+
+Vom Dorfmagier erfahren die Spieler das das spuken so ungefähr mit dem verschwinden des Ältesten angefangen hatte.  Die Spieler werden auch erfahren, das ein Spuk dadurch gebannt werden kann, indem man seine Knochen verbrennt. Sie müssen also herausfinden was auf dem Friedhof spukt. Dann werden sie merken, das es ein alter König der Vorzeit ist, der dort sein Unwesen treibt. Der Friedhof wurde nämlich damals auf einem uralten Schlachtfeld errichtet. 
+
+Die Spieler werden nun herausfinden, das es in der Nähe ein Hügelgrab des alten Königs gibt. Innen werden sie den Schlüssel benutzen müssen, um die Gebeine zu verbrennen. 
+
+Von da an haben die Spieler eine zweistufige Schutzvorrichtung gebrochen, deren erste Stufe bereits durch den Dorfmagier absichtlich gebrochen wurde. Der Spuk verschwindet, aber die toten (die Gegner des Königs) erwachen als Zombies zum Leben und werden das Dorf angreifen. 
+
+Zurück im Dorf gibt es natürlich ein schönes Gemetzel. Danach werden die Spieler erfahren, das der Dorfmagier fort ist. Er hat anscheinend noch dazu ein junges Mädchen mitgenommen. 
+
+Im Wald könnten die Spieler seinen geheimen Unterschlupf entdecken. Dieser wird bewacht. Im Keller verrichtet der Dorfmagier sein Werk, er wird das junge Mädchen mit dem Dolch töten. Dann wird er sich wegeleportieren. Im Keller finden die Spieler merkwürdige Aparaturen, auch den sehr geschwächten Ältesten, der den Spielern noch erzählen kann, das der Dorfmagier unter schwarzer Magie steht und den untoten König Radament beschworen hat. Sie finden auch Hinweise darauf, wie man Radament wieder einsperren kann. Sie müssen in die alte Ruine einer kleinen Burg, in der der König lebte und dort den Königsring finden. Kein Kampf, aber ein Spieler muss ein Opfer darbringen und seine Seele dem Königsgeist pfänden, damit dieser den Ring heraus gibt und hilft (nach Abschluss ist der Spieler wieder frei). 
+
+Von nun an gibt es ein echtes Zombieproblem... Die Spieler werden erfahren, daß es in der Nähe des Schlachtfeldes eine Stadtruine gibt (nur sehr rudimentär). Dort hat sich in den Katakomben Radament zur Ruhe gesetzt. In den Katakomben gibt es ein schönes Geschnetzel und die Spieler sollten es schaffen können Radament magisch zu fixieren (mit dem Königsring / Geist). Dann können sie den Dorfmagier überwältigen, der seine Seele geben muss um Radament für immer einzusperren (mit dem Dolch töten). Radament wird mitsamt des Königsgeistes und dem Ring in einer beeindruckenden Kampfpose zu Stein erstarren. Alle Zombies werden danach sterben.
+
+\page
+
+
+
+## In der Schenke
+
+<div class='descriptive'>
+##### Zum durstigen Pferd
+Es ist Abend, draußen regnet es in Strömen. Euch knurrt der Magen und es war schwerer Tag des Herumlungerns. Langsam könnten mal wieder einige Silberkreuzer rollen, doch an Arbeit mangelt an diesen schlechten Tagen. Und so kommt es, daß ihr an diesem Abend im Gasthaus **Zum durstigen Pferd** eingekehrt seid und zusammen an einem Tisch sitzt. Ihr gönnt euch ein kleines Mitleidsbierchen. Es gibt auch etwas zu essen, aber es ist ein karges Mahl, daß ihr euch bestellt habt.
+</div>
+
+Der Spielleiter kann den Abenteurern jetzt pro Nase einen halben Silberkreuzer abnehmen.
+In der Schenke tummeln sich einige Säufer und andere Taugenichtse.
+
+<div class='descriptive'>
+##### Zum durstigen Pferd
+Plötzlich wird die Türe aufgestoßen und ein kalter Hauch weht kurz in die Schenke hinein. Mit einem **Rumms** knallt die Tür in den Rahmen zurück. 
+Die anderen Taugenichtse um euch herum beginnen zu schweigen. Der korpulente große Mann wirft seine nasse Kapuze zurück. 
+"Arbeit! Ich vergebe Arbeit an Euch Taugenichtse!" ruft er in einem herrischen Ton.
+</div>
+Der Mann stellt sich den Spielern als **Falk Hangemann** vor, Kaufmann und Wagenbesitzer.
+
+<div class='descriptive'>
+##### Falk Hangemann
+Ein Wagenzug nach **Norderbrunn** muss begleitet werden! Aber ich bin nicht sicher, ob ihr die Richtigen seit! Drei Tagesreisen den Finsterkamm entlang. 20 Silberkreuzer pro Nase, die Hälfte Morgen bei Aufbruch, die andere Hälfte, wenn ihr wieder zurück seit und die Empfangsbestätigung vorlegt.
+</div>
+
+Falls die Spieler genauere Informationen haben möchten, wird er Ihnen folgendes erzählen.
+
+<div class='descriptive'>
+##### Falk Hangemann
+Der Zug besteht aus drei Wagen. Drei Fahrer werden Euch begleiten. Ihr seid für deren Sicherheit zuständig und natürlich auch für die Ware! In letzter gab es da vermehrt Probleme. Übergriffe von Goblingesochse. Wird Zeit das man denen Mal Einhalt gebietet! 
+</div>
+
+## Am Morgen des Aufbruchs
+
+<div class='descriptive'>
+##### Bei den Wagen
+Es ist neblig und kalt an diesem Morgen. Ihr steht bei den Wagen, die jeweils mit einem alten Gaul bespannt wurden. Gerade eben haben Arbeiter die Beladung der Planwagen abgeschlossen, als Falk erscheint.
+"Gut das ihr da seid! Welch herrlicher Tag! Hier nehmt Eure Anzahlung und seht zu, daß ihr Euren Job vernünftig macht!"
+</div>
+
+Jeweils ein Spieler könnte sich neben einen der Fahrer setzen, die anderen müssten sich auf die Wagen verteilen oder laufen. 
+Der Zug wird etwa 30 Kilometer pro Tag zurücklegen und immer gegen Abend eine Rast einlegen. Früh Morgens wird es dann weiter gehen, ganz gmächlich, bis man nach drei Tagen Abends **Norderbrunn** erreicht.
+
+## Tag 1
+
+<div class='descriptive'>
+##### Der erste Tag
+Was für ein schönes Wetter. Die Sonne scheint sogar nach einigen Stunden und ihr fangt an die Reise zu genießen. Wer hätte Gedacht, daß aus so einem graulichen Morgen noch so ein schöner Tag werden würde.
+Ihr fahrt mit dem Wagenzug die kleine Strasse den Wald entlang. Zur linken Seite kann man das wi gemalte Gebirge des **Finsterkamms** erkennen, auf der rechten Seite scheint sich ein großer dichter Wald zu erheben. 
+So reist ihr den ganzen langen Tag über,bis in den frühen Abend hinein. Dann entscheiden sich die Fahrer für einen schön gelegenen Rastplatz und fangen an, das Abendmahl vorzubereiten.
+Alles in allem, ein schönes Zusammensitzen. Geschichten werden erzählt Witz gerissen, ihr fühlt euch redselig und sehr wohl.
+</div>
+
+Der erste Tag sollte problemlos verlaufen. Etwas Smalltalk hier und da mit den Fahrern, schönes Wetter nach dem Nebel und eine gute Stimmung.
+
+Der Rastplatz wird gut gewählt. Abends sollte jemand kochen und es wird ein schöner Abend. Allerdings verschlechtert sich das Wetter in der Nacht. Es wird kalt, es wird regnen, es sollte richtig schön ungemütlich werden.
+
+Den Spielern sollte das Gefühl vermittelt werden, als ob der Wald sie beobachtet. Sie sollten schlecht schlafen, oft wach werden usw. Macnhmal raschelt etwas bei der Wache. Angst und Unbehagen erzeugen!
+
+## Tag 2
+
+<div class='descriptive'>
+##### Der zweite Tag
+Was für eine schlechte Nacht. Ständig war irgendetwas am Waldrand, ständig diese seltsamen Geräusche. Dann dieser Nieselregen, der irgendwann in der Nacht begann. Alles ist nass, die ganze Ausrüstungm eure Kleidung. Ihr fühlt euch furchtbar. Die Fahrer haben eine ordentliche Brühe gekocht. 
+Selbst die kann eure augekühlten Körper kaum erwärmen. 
+Der Himmel ist so bewölkt, es sieht aus, als würde es ewig regnen wollen. Ein schlechtes Gefühl breitet sich in Euch aus. Dazu dieser kalte Hauch des Windes hier am Wegesrand. Ihr fühlt Euch schlecht und ausgelaugt, es ist einfach furchtbar.
+Den Fahrern scheint genauso zu gehen. Mühsam packen sie alles zusammen und ihr macht Euch entkräftet und ausgezerrt auf die Weiterfahrt.
+</div>
+
+Der zweite Tag beginnt mit permanenten Nieselregen, mal stärker, mal schwächer. Ständig bewölkt, kalt, windig und unangenehm.
+
+\page
+
+
+Die Spieler sollten alle paar Stunden Körperkraftproben ablegen, um sich nicht ausruhen zu müssen.
+
+Der Zug wird gegen Abend in einiger weiter Ferne eine unheimliche Burgruine erkennen können.
+
+<div class='descriptive'>
+##### Die Burgruine
+In der Ferne macht ihr eine unheimliche Burgruine aus. Sie steht auf einem kleinen Hügel und nahe am Fuß des Gebirges. Der Stein der Ruine scheint schwärzlich geworden zu sein, das Alter hat seine Spuren hinterlassen. Welch grausamer Herrscher hier wohl einst gelebt hatte? Ein Schaudern überläuft Eure Nacken.
+Und gerade in dem Moment, als Euch eine Regenpeitsche in die Gesichter knallt, ruft einer der Fahrer, das er einen Rastplatz nahe am Wald unter einigen großen Bäumen ausgemacht hat.
+Wenigstens heute ein klein wenig Schutz vor diesem allgegenwärtigen Regen.
+</div>
+
+Der Rastplatz wird natürlich von den Fahrern irgendwo am Wegesrand gewählt. In der Nacht sollte es zu einem kleinen Überfall kommen. 
+Ein Trupp von sechs Goblins versucht die Spieler auszutesten. Sie werden von mehreren Seiten angreifen, aber nicht zu weit gehen und nach ein paar Angriffen die Flucht ergreifen. Spätestens, wenn es ein oder zwei Verluste gibt.
+
+___
+> ## Goblin
+>*Einfache Späher*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 5
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 5 |   7   |   6  | 12
+>___
+> - **Languages** Goblinsich
+> ___
+> ***Taktiken.*** In den Hinterhalt locken.
+> ### Aktionen
+> ***Beil*** 1W6+2
+>
+> ***Kurzbogen*** 1W6+3
+
+Danach wird der Schlaf der Spieler sehr unangenehm werden, das es ordentlich frisch wird und natürlich schön regnet.
+
+```
+```
+
+## Tag 3
+
+<div class='descriptive'>
+##### Der dritte Tag
+Eure Körper schmerzen. Arme, Beine und sämtliche Knochen scheinen wie entzündet zu sein. Dieser verdammte Regen hat sich wieder einmal zu einem konstanten Nieselregen entwickelt, dessen mikroskopisch kleine Tropfen durch jede Öffnung eurer Kleidung geraten.
+Nässe, Kälte und diese unangenehme schlechte Gefühl, das irgendwas schlimmes passieren wird, scheinen Euch den Mut zur Weiterreise zu nehmen.
+Die Fahrer haben zum Frühstück wieder eine kräftige Brühe gekocht. Nur noch dieser Tag, dann ist es geschafft.
+</div>
+
+Auch der dritte Tag sollte höchst unangenehm sein, auslaugend, Kräfte verzehrend. Wegen dem Schlafmangel sollten die Spieler ab und zu einige Körperkraftproben, um 2 erschwert, ablegen, um nicht zu Müde zu werden.
+
+Ein schlechtes dunkles Gefühl der Unmut verbreitet sich außerdem unter den Spielern, je näher sie ihrem Ziel kommen.
+
+
+## Die Ankunft im Dorf
+
+<div class='descriptive'>
+##### Das Dorf bei Abend
+Kleine Lichter sind in der Ferne durch den permanenten Regenschleier zu erkennen. Auf der rechten scheint sich ein großer Hügel bemerkbar zu machen. Ein Schaudern fährt Euch über den Rücken, als ihr im Blitzschein erkennt, daß es sich um einen Friedhof handeln müsste. Euch ist kalt, nass und ein seltsames Gefühl, des drohenden Unheils macht sih in Euch breit. Es scheint eine rabenschwarze Nacht zu werden. Die Pferde schleppen sich mit aller Mühe durch schlammigen Untergrund, die Wagen ächzen, als ihr die ersten kleinen schwach beleuchteten Häuser auf der Dorfstrasse passiert.
+Die Fahrer lenken die Wagen zum **Schwarzkrug**, der einzigen Schenke des Dorfes. Dort wollen die Wagen unterbringen und dort sollte auch die Ladung vom Dorfältesten **Colgar Korber** empfangen werden. 
+</div>
+
+<div class='descriptive'>
+##### Vor dem Schwarzkrug
+Der Schwarzkrug, eine kleine Schenke im Herzen des Dorfs Norderbrunn. Die Fahrer bringen in der Scheune unter, wollen später zu Euch stoßen, wenn sie die Pferde versorgt haben. Es regnet immer noch und stärker den je. Während ihr draußen den lauten Gesang der betrunkenen Bauern vernehmt, die alte Freiheitslieder einer lang ersehnten Revolution der Bauern über die Gutsherren von sich preisen, wird plötzlich die Türe der Schenke aufgeworfen. Im Blitzschein erkennt ihr das klapprige Holzschild oben neben der Tür befestigt, das einen schwarzen Bierkrug zeigt. 
+
+"Lasst mich vorbei, mir hundsschlecht!" schimpft der Bauer, während er schnaubend und würgend an Euch vorbeiläuft, wahrscheinlich zu seinem Haus in der Nähe.
+</div>
+
+\page
+
+<div class='descriptive'>
+##### Der Schwarzkrug
+Ihr betretet einn warmen großen Raum, in dem mehrere Rundtische mit Höckern aufgestellt sind. Es ist voll und stickig. Viele der Bauern hier scheinen stark angetrunken zu sein und der Wirt hat Mühe dem ausschank nachzukommen. Freihe Plätze scheinen spärlich, ihr könnt weiter hinten tatsächlich einen freien Rundtisch erkennen. 
+</div>
+
+Im **Schwarzkrug** werden die Spieler auf einige aufgebrachte, teils angetrunkene, Bauern treffen.
+Unter der Menge befindet sich auch **Thallian Ballurat**, ein sehr alter Magier, der schon in diesem Dorf lebt, über dessen Hintergrund allerdings nicht viel bekannt ist und **Kajes**, ein verwirrter junger Mann. Die Spieler sollten eine **Klugheitsprobe** ablegen, um die beiden in der Menge zu erkennen.
+
+Das Thema der Stunde ist, das spurlose Verschwinden des Dorfältesten **Colgar**, der seit zwei Tagen vermisst wird. 
+
+Nur er ist übrigens befugt die Ladung zu empfangen und eine Empfangsbestätigung zu erstellen. Niemand wird den Spielern die Ladung abnehmen wollen und die Fahrer stellen sie erstmal in einem Lagerhaus in der Nähe der Schenke ab. Sie werden sich um die Pferde kümmern.
+
+<div class='descriptive'>
+##### Betrunkene Bauern
+Das waren die Goblins! Sie haben ihn entführt oder wer weis, vielleicht sogar getötet. Dieses verfluchte Pack! Und niemand hilft uns! Außerdem haben sie unsere Quelle vergiftet, den Norderbrunn!
+Ja genau, sie haben das Wasser schwarz gefärbt! Und Colgar getötet! Keine Ahnung, wo diese Brut auf einmal herkommt, aber seit einigen Wochen treiben sie sich in den Wäldern hier umher.
+</div>
+
+Auch **Thallian** könnte sich, wenn gefragt, äußern.
+
+<div class='descriptive'>
+##### Thallian Ballurat
+Es ist wahr. Seitdem die ersten Goblins vor etwa drei Monaten gesehen wurden, verfärbte sich der **Norderbrunn** schwarz. Unser geliebtes Quellwasser ist seitdem ungenießbar geworden. Ich habe es untersucht, es scheint eine unbekannte Magie am Werk zu sein, vielleicht Goblinmagie. Vorsicht sollte geboten sein, wenn man sich der Quelle nähert. Die Goblins scheinen ihre Schreckhaftigkeit verloren zu haben.
+</div>
+
+**Thallian** bietet den Spielern eine gute Möglichkeit, sich heilen zu lassen. Er macht das aus reiner Freundschaft und um den Spielern einen guten Freund vorzuspielen. Er will ihr Vertrauen gewinnen, wird sich aber auf gar keinen Fall selbst belasten.
+
+Die Spieler werden in der Schenke auch auf einen jungen Mann namens **Kajes** treffen, einem hier lebenden und arbeitenden Jungen, der auch **Heiliger Martinus**. Dieser Charakter ist eine Anspielung auf einen hochintelligenten KS-Freak und seinem immer wieder kehrenden alter Ego **Martin**. Wenn **Kajes** zur Verfügung steht, kann er die Spieler auf hochintelligente Weise auf die Sprünge helfen, meistens aber wird der **Heilige Martinus** vorherrschend sein, der sich äußerst bockig gibt. An diesem Abend ist er übrigens der **Heilige Martinus** und sollte die Spieler (falls sie auf ihn aufmerksam werden) auf eine lustige Art und Weise mit Winken und Rufen begrüßen. Der **heilige Martinus** wird einem der Spieler von dem alter Ego des Spielers einer anderen Spielwelt, eines anderen Spiels erzählen. Er wird erzählen, das **Kajes** ihm das erzählte.
+
+Über **Kajes** können die Spieler folgendes erfahren.
+
+<div class='descriptive'>
+##### Irgendein Bauer
+Kajes Meeltheur... Es ist ein Wunder das er noch lebt. Es war ein Grauen für alle von uns, was damals in Alt-Norderbrunn geschah. Ein trockener Sommer, dann das schwere Gewitter, das Feuer im Dorf, die brennende Ernte... Die standen in Flammen, viele konnten sich retten. Kajes Eltern jedoch nicht. Das Feuer überraschte sie im Schlaf. Sie starben in den Flammen. Kajes, der kleine Junge von damals, mußte seine Eltern verbrennen sehen. Die Leute versuchten die Häuser zu löschen, doch alles brannte lichterloh. Colgar schließlich, damals noch 20 Jahre jünger, benässte sich, drang in das Haus von Kajes Eltern ein und rettete den jungen, der dann schlielich bei ihm aufwuchs.
+Ein Feuergeist bemächtigte sich seiner, sagen die einen, Wahnsinn breitete sich in ihm aus, sagen die anderen. Ich glaube jedoch Thallian. Es war diese schwere Erfahrung in seinem Leben, die sein zweites Ich zum Leben erweckte. Kajes ist ein guter Mensch. 
+</div>
+
+Die Spieler können folgendes erfahren:
+
+* **Colgars** Verschwinden ist nun zwei Tage her. Er wollte sich anscheinend die Quelle noch einmal genauer ansehen.
+* Die Goblins wurden unweit der Quelle beobachtet, draußen bei den weit entfernten Feldern.
+
+Die Spieler können folgendes tun:
+
+* Am nächsten Tag zusammen mit den drei Wagenfahrern abreisen (keine weitere Belohnung). Abenteuer fertig.
+* Nach **Colgar** suchen und den Dorfbewohnern somit helfen. In diesem Fall wird ihnen angeboten, vergünstigt in der Schenke zu leben, 1/2 Silberkreuzer pro Person und Übernachtung und Essen. Sie bekommen in dem Fall ein oder zwei Zimmer im oberen Stockwerk.
+
+\page
+
+Die Fahrer werden später dazustoßen und sich ebenfalls ein Zimmer nehmen, um Morgen wieder abzureisen.
+
+Falls die Spieler abreisen wollen, werden sie in der Nacht Bekanntschaft mit einem kleinen jungen Mädchen **Ari** machen, der Enkelin **Colgars**, die neben der Schenke bei ihren Eltern wohnt. Sie wird den Spieler mit dem höchsten **Mutwert** ansprechen und ihn anflehen, den Großvater zu suchen und auch das Wasser wieder zu reinigen. Es sollte sehr dramatisch werden und an die Ehre der Spieler appellieren.
+
+## Die Quelle
+
+Zur Quelle ist es ungefähr ein Fußmarsch von einer Stunde. **Thalian**, aber auch jeder andere im Dorf kann den Spielern den Weg beschreiben. Niemand wird sie allerdings begleiten, alle scheinen sehr beängstigt zu sein.
+
+Der nächste Tag bricht an, es regnet nicht mehr so stark, wie in der Nacht. Es ist bewölkt und kühl.
+
+<div class='descriptive'>
+##### Die Quelle
+Von einigen Bäumen umgeben, die schon Jahrhunderte alt sind, entdeckt ihr einen großen mit Moos überzogenen Stein, senkrecht im Waldboden steckend. Der Stein ist ca. vier Meter hoch. Vor ihm befindet sich ein uraltes Becken, das gute zwei mal zwei Meter misst und ebenfalls mit Moos überzogen ist. Der Stein besitzt am unteren Teile eine kleine Öffnung, aus der sich ein kleines Rinnsaal in das Becken ergießt. 
+Wie schön muss es hier einst gewesen sein, als die Bäume noch kleine waren, die Natur die Quelle noch nicht erschlossen hatte. 
+Nun ergießt sich hier ein schwarzes nach Fäulniss riechendes Wasser und Euch überkommt wieder dieses ungute Gefühl. 
+Die verwesenden Köpfe zweier Wildschweine wurden hier auf zwei großen aufgespießt und gegen den Stein gelehnt.
+Gehirnmasse und Fleischsaft bahnen sich ihren Weg über den Stein, hinunter in das Quellwasser.
+</div>
+
+Wenn die Spieler etwas nachdenken, werden sie erkennen, das es typisches Goblinwerk ist. Anscheinend wollten die Goblins das Wasser vergiften, mit den Kadavern. Mit der Schwarzfärbung haben sie aber nichts zu tun.
+
+Der Ursprung der Quelle sollte nicht erkennbar sein. Und die Spieler sollten frustriert wieder zur Schenke zurückkehren. Es sollte tüchtig regnen und Gewittern, so das den Spielern der weitere Aufenthalt an der Quelle vermiesst werden sollte.
+
+## Wieder in der Schenke
+
+Niemand in der Schenke scheint etwas über die Quelle zu wissen. Die Spieler sollten richtig verzweifelt sein.
+
+<div class='descriptive'>
+##### Kajes und der Ursprung der Quelle
+Plötzlich kehrt Ruhe ein in der Schenke. Alle werden still und schauen in die Ecke, in der der **heilige Martinus** immer sitzt. Er hat sich erhoben,schaut zu Euch mit ernster Mine. "Kajes" murmelt die Menge.
+
+"Jede Quelle hat seinen Ursprung, doch wo ist er zu finden? Unter Tage solltet ihr Suchen, doch wo?  Der erste Mondstrahl der Mitternacht, einen Teil des Gebirges hell erleuchtet, einen einzigen Punkt, einen einzigen Augenblick lang. Folgt dem Punkt in gedachter Linie, wie durch ein Lot. Dort am Fuße müsst ihr suchen."
+
+Danach setzt er sich wieder hin und schaut Euch freundlich an.
+</div>
+
+Ab diesem Moment ist er wieder der **heilige Martinus**.
+
+**Thallian** könnte sich auf Nachfrage nicht an einen Ursprung erinnern. Der Ursprung der Quelle ist für ihn der Stein. 
+
+## Der Ursprung der Quelle
+
+Sollten die Spieler sich wirklich gegen Mitternacht an der Quelle einfinden, werden sie wirklich ein Naturschauspiel beobachten können. Der Mitternachtsmond erleuchtet das Gebirge an einem einzigen Punkt, dessen Fuße man ungefähr in einer Stunde erreichen könnte.
+Dort kann man einen Höhleneingang erkennen, durch den man sich pressen muss. Es geht einen langen Schacht nach unten, der dann letztendlich in einem Raum auf der Karte endet.
+In dieser Höhle kann man neben einigen toten Goblins den Ursprung der Quelle finden, scheinbar  für immer entweiht und durch merkwürdige Schriftzeichen verziert.
+**Thallian** hat die Quelle durch schwarze Magie entweiht. Der erste Teil der Beschwörung von **Radament** wurde dadurch in Gang gesetzt, der Blutfluss des Bösen wurde initiert. Ein paar Goblins sind in der Höhle, um zu versuchen das Böse aufzuhalten. Vermutlich werden die Spieler sie töten.
+
+Mittels Klugheitsprobe können die Spieler eindeutig Spuren von Goblins finden.
+
+<div class='descriptive'>
+##### Raum 1
+Ihr betretet eine große Höhle, in der vereinzelt Fackelständer in den Boden gerammt wurden und ein schönes diffuses Flackerlicht geben. Aus einem hinteren Teil der Höhle hört ihr merkmürdige Stimmen, eine Art schimpfen, das ab und zu von einem Lichtblitz unterbrochen wird. Ein ungutes Gefühl breitet sich in Euch aus und als das Schimpfen impulsiver wird, und die Lichtblitze sich von weiß, nach rot und dann nach blau verfärben, ruft euch das wütende Geschrei von einigen Goblins, die auf euch zu stürmen, wieder in das Geschehen zurück.
+</div>
+
+Die Spieler werden von sechs Goblins angegriffen. Im hinteren Teil der Höhle befindet sich ein Goblinschamane, der gerade versucht das Quellwasser von seinem bösen Zauber zu befreien. Mindestens zwei Goblins sollten vor dem Angriff ihre Bögen abfeuern.
+
+Der Schamane wird versuchen sich zu ergeben und versuchen mittels Zauberei mit den Spielern zu kommunizieren. Dabei schimpft er einige Worte und seine Hände beginnen zu glühen. Die Spieler sollten ihn töten. Einem magiebegabten Spieler könnte der Schamane vielleicht noch erreichen und ihm folgende Worte vor seinem Tod ins Ohr setzen "Wasser böse".
+
+\page
+
+___
+> ## Goblin
+>*Beschützer*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 6
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 5 |   8   |   7  | 12
+>___
+> - **Languages** Goblinsich
+> ___
+> ***Taktiken.*** In den Hinterhalt locken.
+> ### Aktionen
+> ***Beil*** 1W6+2
+>
+> ***Kurzbogen*** 1W6+3
+
+___
+> ## Goblin
+>*Schamane*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 6
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 4 |   5   |   4  | 6
+>___
+> - **Languages** Goblinich
+> ___
+> ***Taktiken.*** Heilung (1W6) auf beliebigen Goblin pro Runde.
+> ### Aktionen
+> ***Stab*** 1W6+2
+
+Bei dem Schamanen könnten die Spieler **Colgars** Siegelring finden, in dessen Innenseite **Colgar** eingraviert ist. **Colgar** schenkte dem Schamanen den Ring, wenn er dafür das Wasser entgiften würde.
+
+<div class='descriptive'>
+##### Raum 2
+Der Stein dieser Höhle scheint merkwürdig grünlich zu leuchten. 
+</div>
+
+<div class='descriptive'>
+##### Raum 3
+Diese Säule dieser Höhle ist stark mit Moos bewaschen. Der Boden leuchtet schwach grünlich.
+</div>
+
+Wenn die Spieler sich den hinteren Teil der Höhle ansehen wollen, werden sie ein großes Wandrelief stark Moos bewachsen entdecken.
+
+<div class='descriptive'>
+##### Wandrelief
+Das Relif zeigt einengroßen menschlichen Krieger mit einer goldenen Krone und einemlangen goldenen Schwert. Er scheint gerade einen anderen menschenähnlichen mit Pferdekopf enthauptet zu haben. Das Blut das aus diesem Körper läuft, scheint in eine Steinbecken zu laufen, an dessen einer Seite ein sehr hoher Stein steht.
+Schlangen scheinen sich in dem Beckenzu laben.
+</div>
+
+<div class='descriptive'>
+##### Raum 4
+Ihr betretet eine feuchte und kalte Höhle. Überall wachsen Tropfsteine und aus allen Ecken scheint Wasser zu tropfen.
+</div>
+
+Zurück in der Schenke könnten die Spieler **Thallian** davon berichten. Er wird sich sehr beängstigt zeigen und anbieten, in alten Schriften danach zu suchen. Er rät den Spielern dringend dazu, **Colgar** bei den Goblins zu suchen. 
+
+In der Schenke können die Spieler heute folgendes erfahren:
+
+* Es wird vermutet, das sie sich in einer Höhle in der Nähe des Gebirges aufhalten. Hinter den äußeren Feldern.
+
+## Die Suche nach den Goblins
+
+Der Weg zur Goblinhöhle sollte recht einfach zu finden sein. Hinter dem äußerem Feld an am Gebirge sollten die Spieler mittels Spurensuche einige Spuren finden können, die zum Gebirge führen. Es sollte ein Nieselregen herrschen.
+
+### Die Goblinhöhle
+
+In der Goblinhöhle sollten die Spieler den Goblinschatz finden. Es handelt sich bei den hierlebenden Goblins um einen Terrortrupp, der verhindern wollte, das der Dolch **Die Schmach** in falsche Hände gerät.
+
+Die Spieler sollten den Dolch finden und zu **Thallian** bringen.
+
+Tun sie dies nicht,wird **Thallian** den Dolch entweder selbst finden, oder nachts bei den Spielern stehlen während sie schlafen. Er kann auch **Ari** beauftragen dies zu tun, während die Spieler in einer Menge sind.
+
+Vor der Goblinhöhle sollte werden zwei Wachposten stehen, die vereinzelt auch mal Patrouille laufen.
+
+\page
+
+___
+> ## Goblin
+>*Einfache Späher*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 5
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 5 |   7   |   6  | 12
+>___
+> - **Languages** Goblinsich
+> ___
+> ***Taktiken.*** In den Hinterhalt locken.
+> ### Aktionen
+> ***Beil*** 1W6+2
+>
+> ***Kurzbogen*** 1W6+3
+
+<div class='descriptive'>
+##### Raum 1
+Ein kleines Feuerchen erwärmt einen großen Kochtopf. Ein Goblin scheint gerade damit beschäftigt zu sein, den Topfinhalt, der erbärmlich stinkt, umzurühren. Drei andere sind gerade Dabei ihre Beile zu schleifen. Sie scheinen Euch in dem fahlen Licht der Feuerstelle noch nicht bemerkt zu haben. 
+</div>
+
+___
+> ## Goblin
+>*Einfache Späher*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 5
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 5 |   7   |   6  | 12
+>___
+> - **Languages** Goblinsich
+> ___
+> ***Taktiken.*** In den Hinterhalt locken.
+> ### Aktionen
+> ***Beil*** 1W6+2
+>
+> ***Kurzbogen*** 1W6+3
+
+In der Höhle ist nicht zu finden. In dem kleinen Fortsatz schlafen die Goblins. Es riecht stark und überhaupt liegt viel Unrat herum.
+
+```
+```
+
+<div class='descriptive'>
+##### Raum 2
+Die größere Höhle sieht aus, wie eine kleine Werkstatt. Schleifsteine, eine sehr große Feuerstelle, die nur etwas glüht und zwei Arbeitstische mit allerlei Werkzeugen stehen hier herum. Alles scheint ziemlich unaufgeräumt zu sein.An den Wänden stehen zwei Kisten und drei Fässer.</div>
+
+Die Fässer sind nicht verschlossen und beinhalten Wasser.
+
+Die Kisten sind durch einfache Schlösser gesichert und beinhalten drei Heiltränke (jeweils 1W20).
+
+<div class='descriptive'>
+##### Raum 3
+Ihr betretet eine seltsam geformte Höhle. In der Mitte liegt ein verflauster dicker Teppich, auf dem ein Holzthron steht. Auf ihm sitzt fette Gestalt mit großen Hauern und einem fiesen verschmitzten Lachen. Er erhebt sich aus seinem Thron und mit einer tiefen Stimme sagt er: 
+
+"Beute! Locke hungrig, sehr hungrig! Ergreift sie!"
+
+Dabei zieht er eine lange, mit Steinen und alten Fleischfetzen gespickte große Keule vom Boden hoch.
+
+Von links und rechts und hinter ihm nähern sich die Goblins mit Beilen und Keulen ruhigen Gewissens, ihrem Meister einige neue Leckerbissen zu verschaffen.
+</div>
+
+Die Spieler werden von 6 Goblins und einem fetten Oger angegriffen.
+___
+> ## Goblin
+>*Einfache Späher*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 5
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 5 |   7   |   6  | 12         |
+>___
+> - **Languages** Goblinsich
+> ___
+> ***Taktiken.*** In den Hinterhalt locken.
+> ### Aktionen
+> ***Beil*** 1W6+2
+
+\page
+
+___
+> ## Oger
+>*Locke*
+> ___
+> - **Rüstungsschutz** 3
+> - **Monsterklasse** 18
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 22|   6   |   5  | 40         |
+>___
+> - **Languages** Goblinsich, menschlich
+> ___
+> ***Taktiken.*** Locke ist krank, bei jedem Angriff besteht die Möglichkeit (50%), das er statt zuzuschlagen den Spieler vollkotzt. Dieser muss dann eine einfache Mutprobe ablegen, um handeln zu können.
+> ### Aktionen
+> ***Keule*** 2W6+4
+
+
+<div class='descriptive'>
+##### Raum 4
+Ihr betretet eine sehr schlecht beleuchtete Zwischenhöhle. Es riecht stark nach Verwesung und und euch läuft ein Schauder über den Rücken als ihr den Ursprung des Geruchs entdeckt. Ein nackter menschlicher Körper, oder das was von ihm noch übrig geblieben ist liegt am Boden aufgespannt an der linken Wand. Anscheinend haben die Goblins ihn ausgenommen und größtenteils schon verzerrt. 
+</div>
+
+Tja, der Körper hat keinen Kopf mehr und ist überhaupt nicht mehr zu identifizieren. Es war auf jeden Fall nicht der Älteste, sondern ein armer Streuner. Aber die Spieler werden das natürlich denken.
+
+<div class='descriptive'>
+##### Raum 5
+Ihr betretet eine kleine Höhle mit vielen Körben und einer großen Holzkiste in der Mitte. Verschiedenster Plunder liegt hier überall verstreut herum. Anscheinend hatte er den Goblins und **Locke** etwas bedeutet. 
+</div>
+
+In den Körben können die Spieler insgesamt 30 Silberkreuzer ausmachen.
+
+Die Kiste ist **schwer** verschlossen. Sie enthält einen alten Dolch mit merkwürdigen Schriftzeichen darauf **Die Schmach**.
+
+Außerdem finden die Spieler zwei Tränke mit blauer Flüssigkeit hier (Astraltränke jeweils 1W20).
+
+<div class='descriptive'>
+##### Raum 6
+Es riecht furchtbar nach Fäkalien in diesem Raum. In einer hinteren Ecken kann man ein rauschen aus einer im Boden befindlichen kleinen Felsspalte hören.</div>
+
+Hier ist absolut nichts, nur Scheisse.
+
+```
+```
+
+<div class='descriptive'>
+##### Raum 7
+Ihr betretet einen furchtbar schmutzigen Vorraum. Eine Fackel leuchtet an der Wand nur noch schwach und überall liegen kleinere Knochen auf dem Boden herum.
+</div>
+
+## Abends zurück im Dorf
+
+**Thallian** kann wie gewohnt als Heiler fungieren und sich den Dolch genauer ansehen, braucht aber Zeit, um ihn genauestens zu untersuchen.
+
+<div class='descriptive'>
+##### Thallian über den Leichenfund
+Auch wenn es schwer fällt die verstümmelte Leiche anhand Euren Angaben zu identifizieren, so muß man doch davon ausgehen, das es Colgar ist. Es betrübt mich, einen alten Freund verloren haben zu sollen. Ich brauche ein wenig Ruhe. Es scheint dunkle Zeit hereinzubrechen. Ich ein ungutes Gefühl bei der ganzen Sache, bitte gebt acht auf Euch.
+</div>
+
+<div class='descriptive'>
+##### Mehrere Bauern über den Leichenfund
+Wie schrecklich! Colgar hats erwischt. Diese verfluchte Pack von Goblins! Es ist unvorstellbar! Was sollen wir nun machen, ohne Ältesten... Beruhigt Euch, er kann doch sein, er es gar nicht war! Wer soll es dann gewesen?
+</div>
+
+Falls die Spieler am nächsten tag abreisen wollen, weil sie denken ihre Aufgabe sei erledigt, werden sie Besuch von Ari bekommen. Außerdem werden festellen, daß ihnen am nächsten Tag der der Dolch **Die Schmach** entwendet wurde. Das war entweder **Thallian** selbst, oder **Ari** in dessen Auftrag.
+
+<div class='descriptive'>
+##### (am Abend / in der Nacht) Ari
+Bitte! Bitte hört nicht aus sie! Mein Großvater ist nicht tot! Ich habe ihn gestern im Traum gesehen, er leidet unvorstellbare Qualen... Bitte gebt nicht auf ihn zu suchen, er lebt, das weis ich. Er kann nicht tot sein... *weint*
+</div>
+
+Natürlich ist **Der heilige Martinus** Abends auch in der Schenke. Stichpunktartig wird hier beschreiben, was der Meister zu Schauspieleren hat (KS-Freak Martin, nur falls in der Truppe ein Ritter aus Silbertal anwesend ist, für diesen nämlich hat er als Geschenk ein kleines Holzpferdchen geschnitzt). Desweiteren hat er, falls die Spieler einen Schelm in der Truppe haben, ein buntes Holzschwert und ein buntes Holzschild als Geschenk angefertigt.
+
+* übliches Hällöchen
+* Kajes hat mir erzählt, daß du in Wirklichkeit ein Pferd bist
+* Ein Hengst, ein Hengst aus Silbertal
+
+\page
+
+## Am nächsten Morgen
+
+Die Spieler werden nun von den Bauern erfahren, das es scheinbar auf dem Friedhof spukt, und zwar heftig. Vermutlich hängt das mit der Quelle zusammen. Alle Bewohner ängstigen sich vor dem Friedhof.
+
+Die Bauern werden die Spieler bitten, sich auf dem Friedhof umzusehen.
+
+<div class='descriptive'>
+##### Bäuerin über den Friedhof 
+Ich kam heute vom Friedhof, um dort nach meinem Vater zu sehen... Wenigstens einkleine Blümchen wollte ich ihm aufs Grab legen. Doch, noch als ich den Fuß auf den heiligen Boden setzte, spürte ich eine ungewohnte Kälte. Ein weiterer Schritt und... es ist so schrecklich. Da kam dieses Ding aus dem Nichts, ein Geist! Ich rannte so schnell wie möglich davon. Es ist ein weiteres Zeichen, das Böse selbst hat sich Norderbrunn augebreitet. Erst die Quelle, jetzt der Friedhof...
+</div>
+
+<div class='descriptive'>
+##### Thallian über den Friedhof
+Ich weis, es geht weit über Euren eigentlichen Auftrag hinaus. Aber ihr solltet Euch auf dem Friedhof umsehen. Erst die Goblins, dann die verdorbene Quelle, dann ein Spuk auf dem Friedhof... Ich werde einfach das Gefühl nicht los, das etwas Böses auf dem Vormarsch ist. Wir sollten sehr vorsichtig sein.
+</div>
+
+## Der Friedhof
+
+Der Weg zum Friedhof sollte, bis auf das weiterhin schlechte Wetter unbeschwert sein.
+
+<div class='descriptive'>
+##### Der Eingang
+Eine kalte Aura scheint diesen Platz hier zu umgeben. Viele Steine stecken hier in der Erde. Manche zerbrochen, manche kurz vor dem umfallen. Die Gräber ungepflegt, nur hier und da ein Blümchen in der Erde. Verdorrte Bäume ragen vereinzelt zwischen den Gräbern empor. Der Tod scheint hier eingekehrt zu sein und alles Leben zu verschlingen. 
+</div>
+
+Wenn die Spieler den Friedhof untersuchen möchten, werden sie nach einiger Zeit auf den **Königsgeist** treffen. Es sollte anfangen, das manche Spieler eine **Klugheitsprobe-2** ablegen sollten. Sie werden schreckhafte 
+geisterhafte Erscheiningen haben, wenn die Probe mißlingt.
+Je länger die Spieler hier bleiben, des mehr wird die Probe um 2 erschwert, bis schließlich alle Spieler fir furchtbarsten Geister vor ihren Augen sehen. Dann wird sich der **Königsgeist** vor ihnen offenbaren.
+
+```
+```
+
+<div class='descriptive'>
+##### Der Königsgeist
+Gerade als ihr euch umdreht, steht etwas großes vor euch. Etwa anderthalb mal so groß, wie euer Krieger, schemenhaft mit einer stämmien Gestalt. Kälte und der Hauch des Todes scheinen von ihm auszuströmen. Er schaut sich seine Arme und Hände an, greift dann böse zu euch schauend nach Schwert. Er zieht ein langes zweihändiges Schwert hervor, während Blitze aus den Wolken zucken.
+Geisterstimme: "Verschwindet von hier ihr Narren! Ich werde Euch töten! Verschwindet!" 
+</div>
+
+Die Spieler müssten jetzt eine schwere **KL-Probe - 6** bestehen, um nicht zu fliehen. Ansonsten werden sie weglaufen. Spieler denen die Probe gelingt, müssen nicht fliehen, sie aber pro Spielrunde wiederholen, während sie ein Schnaufen, Bellen und Scharren hören (nacheinander).
+
+## Wieder im Dorf
+
+**Thalian** empfiehlt den Geist zu vertreiben. Bei seinen Recherchen zum Dolch ist er auf einen Geist gestoßen, der seiner Meinung nach von den Goblins erweckt wurde. Man müsse die Gebeine des Geistes finden. Er ist in alten Aufzeichungen (bruchstückhaft) auf das Hügelgrab gestoßen und kann den Spielern den Weg beschreiben.
+
+<div class='descriptive'>
+##### Thallian liest vor
+Erweckt wird er durch niederen Schamanismus. Der alte König, ein uralter Geist, ein Schlächter der alten Zeit. Geburt einer finsteren Magie, das Kind der Verdammnis. Bestattet von seinern Häschern tief unter der Erde, wo kein Tageslicht jemals scheinen wird. Seine Knochen ihm dienen, ihm Leben zu schenken... Einmal gerufen wird großes Unheil den Finsterkamm ereilen. Seine Armeen wird er unter den niederen Formen sammeln. Mit einem großen Heer wird er den Finsterkamm überollen und in seiner Rache alles Leben unterjochen.
+
+"Um ihn zu vertreiben solltet ihr seine Knochen finden und verbrennen. Laut den Erzählungen wurde der alte König in einem Hügelgrab westlich des Dorfes von seinem Gefolge bestattet. Es muß bei den großen Hügeln sein, unweit des Dorfes."
+</div>
+
+**Thallian** hat die Geschichte so verformt, das er die Personen des Königs und des Schlächters **Radament** geschickt vertauschte.
+
+\page
+
+## Das Königsgrab
+
+<div class='descriptive'>
+##### Der Eingang
+Nach einer kleinen Erkundung der Hügelgruppe erkennt ihr im andauernden Regen an einem der hinteren Hügel einen größeren Steinverschlag. Ziemlich Geröll muß hier vor längerer Zeit eingestürzt sein.
+</div>
+
+Nach einer Suche und Arbeit können die Spieler einen größeren Stein finden und beiseite schieben, der einen dunklen kleinen schwarzen Schacht freigibt. Durch diesen können sie klettern **GE-Probe - 2**. Spieler die es nicht schaffen bleiben stecken und müssen vom Nachfolger gepresst oder vom Vorgänger gezogen werden, **KK - 4**. Gelingt das nicht, erleidet der Steckengebliene 1 Trefferpunkt (keine Rüstung).
+
+Im Königsgrab treffen die Spieler vereinzelt auf Skelette und Mumien.
+
+### Erdgeschoß
+
+<div class='descriptive'>
+##### Der Eingang
+Über eine längere Treppe, die nach unten führt, gelangt in einen langen und schmalen Gang, in dem vereinzelt kleine Knochen liegen. Euer Fackelschein bietet ein abstruses Dämmerlicht und wenn das Licht von Schatten zu Schatten, scheinen sich einige der Knochen bewegt zu haben. Aber das ist sicherlich nur Eure Einbildung.
+</div>
+
+<div class='descriptive'>
+##### Feld a
+Staubig und trocken gestaltet sich dieser ähnlich wie der Eingang. Auf dem Boden findet ihr das Skelett und die zerfallene Ausrüstung eine kleineren Humanoiden. 
+</div>
+
+Der arme Zwerg ist einer bösartigen Falle zum Opfer gefallen. Stacheln, die dreimal hintereinander von links und rechts aus den Wänden kommen und bei jedem Mal 3W Trefferpunkte verursachen. Dannach knarren Zahnräder in den Wänden und die gewaltige Sprungfeder der Fall wird wieder aufgezogen, was 6 Spielrunden dauert. 
+Kurz bevor die Falle ausgelöst wird, klackt es kräftig und der Spieler auf dem Feld kann eine **GE-Probe - 4** ablegen, um noch rechtzeitig wegzuspringen. 
+
+<div class='descriptive'>
+##### Raum 1
+Ihr betretet einen 9m breiten 5m tiefen Raum. Vier schwere Sarkophage wurden kunstvoll aus dem Gestein geschlagen. Sie scheinen durch dicke Platten verschlossen zu sein. An den sind Reliefe zu erkennen, die einst prunkvoll gewesen sein mussten, im Laufe der Zeit allerdings sichtlich verblassten. Zu erkennen ist eine große Burg, die von Orks und riesigen Trollen belagert wird, der Kampf scheint in vollem Gange zu sein. Auf vier anderen Reliefen sind 4 stolze Krieger zu erkennen, die mit gezielten Schwerthieben gleich mehere Orks auf einmal zu spalten scheinen. Wahrhaftige Krieger.
+</div>
+
+Sollten sie die Spieler die Sarkophage öffnen **KK-Probe -2**, wird der jeweils darinliegende Krieger zum Leben erweckt. 
+
+In den Särgen können die Spieler jeweils einen Silberkreuzer finden, sowie sie persönliche zerfallene Habe des jeweiligen Toten.
+
+___
+> ## Skelett
+>*Wahrhaftiger Krieger*
+> ___
+> - **Rüstungsschutz** 3
+> - **Monsterklasse** 7
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 12|   10   |   9  | 14         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Zweihandschert*** 1W6+6
+
+<div class='descriptive'>
+##### Raum 2
+Ihr betretet einen Raum mit unzähligen Urnen. Größere, kleinere und einige, die bereits der Zeit erlagen und aufgeplatzt aam Boden liegen. Dicke Spinnweben ragen von der Decke herunter und der gesamte hintere teil der Höhle scheint unerkennbar hinter dem Gewebe verborgen zu sein.
+</div>
+
+Wenn die Spieler diesen Raum erkunden möchten, werden sie vielen kleineren Spinnen begegnen, die allerdings harmlos sind. Szenen sollten erzählt werden, in denen ein Charakter den gnazen Rücken voller Spinnen hat.
+
+Hinter den Spinnweben finden sie eine unverschlossene Truhe mit drei Heiltränken a W20 und zwei Astraltränken a W20.
+
+<div class='descriptive'>
+##### Raum 3
+Hinter schweren Steintür breitet sich eine kleine Kammer aus, deren Luft besonders stickig ist. Auf dem Boden liegen zahlreiche zersprungene Ton-Behältnisse herum. Man kann die Skellette dreier menschlicher Personen erkennen. In der Mitte stand wohl einst ein kleiner Arbeitstisch, der stark zerfallen ist. darauf scheint eine muhlbindenartige Masse zu liegen.
+</div>
+
+Falls die Spieler diesen raum betreten, wird folgendes passieren:
+
+\page
+
+<div class='descriptive'>
+##### betreten von Raum 3 
+Kaum betretet ihr den Raum, fangen die Skelletthaufen an sich zu bewegen und wie durch Zauberhand setzt sich sekundenschnell Knochen an Knochen. Auch die Muhlbinden fangen an sich auf magische Art und Weise zu formen. Fasziniert von diesem Schauspiel seht ihr, wie sich aus den Binden eine große menschliche Gestalt formt. Bevor registriert welche Teufel ihr gerade aus ihrem Schlaf geweckt habt, greifen Euch die Skellette wütend und zischend an. Hinter ihnen, das Wesen mit dem Muhlbinden, welches sich schwer atmend in eure bewegt.
+</div>
+
+___
+> ## Skelett
+>*Balsamierer*
+> ___
+> - **Rüstungsschutz** 3
+> - **Monsterklasse** 5
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 12|   7   |   7  | 10         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Schwert*** 1W6+3
+
+___
+> ## Mumie
+>*Stadthalter*
+> ___
+> - **Rüstungsschutz** 2
+> - **Monsterklasse** 7
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 22|   7   |   7  | 35         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Hände*** 1W6+4
+
+<div class='descriptive'>
+##### Vor Raum 4
+
+Ihr steht vor einer Wand auf der folgende Worte geschrieben sind:
+
+"Alles endet
+ich bin dabei
+alles vollendet
+die Seele ist frei."
+
+</div>
+
+Der Raum befindet sich hinter massiven Wand, sprechen die Spieler "Tod", wird sich die Wand nach unten schieben und die Grabkammer freigeben.
+
+<div class='descriptive'>
+##### Raum 4
+Ihr macht einen prunkvoll eingerichteten Raum frei. Es riecht stark vermodert in der Kammer. Alles wurde so aufgebaut, als stündet ihr in einem Thronsaal. Am hinteren Ende der Kammer steht ein großer Sarkophag. Vor ihm, bis zu der Eingangstür wurde ein einst prunkvoller Teppich gelegt, dessen rot jetzt ein düsteres ist. An den Seitenwänden wurden jeweils drei Fackhälter aufgestelt, deren Licht bereits der Zeit zum Opfer gefallen ist. Zum Opfer gefallen sind auch die vergilbten Reliefe an den Wänden, die unbeschreibbar grausame Schlachten und Taten von vier schwer bewaffneten Kriegern zeigen. Die Krieger rühmen sich mit den abgeschlagenen Köpfen ihrer Feinde, die sowohl gräßliche Monster, als auch andere Menschen waren. Was für Barbaren... Die grausamen Bilder brennen sich in Eurer Mark und scheinen je grausamer zu werden, desto näher sie sich dem Sarkophag nähern. Dort bildet das schlimmste aller Reliefe seinen Abschluß. Es zeigt einen Priester, wie er einem kleinen Mädchen den Hals durchschneidet. Der Schlächter der alten Zeit scheint vor ihm zu Knien. Wut steigt in Euch auf, welch böse Macht war hier damals nur am herrschen...
+</div>
+
+Erkärung des Bildes für den Meister. Die Spieler befinden sich in der Kmmer des alten Königs, die Reliefe zeigen seine treuesten Gefährten in ihren teilweise fragwürdigen Kämpfen. Ein Priester opferte die Tochter des alten Königs um damit **Radament** für ihmmer zu bändigen. Deshalb unterwirft sich **Radament** dem Opfer, das ist sozusagen das letzte Siegel.
+
+Der Sarkophag ist schwer zu öffnen **KK-Probe -8**, die Spieler können es zusammen versuchen. Sobald der Deckel sich bewegt, wird er auf den Boden fallen. Die Fackeln werden nacheinander entzündet werden und den Raum in eine blutrote Stimmung färben. 
+
+\page
+
+<div class='descriptive'>
+##### Deckel ab
+Kaum schafft ihr es den Deckel zu bewegen, rutscht er euch aus den Händen und schlägt dumpfend auf dem Bodem auf. Der ganze Raum scheint kurz zu vibrieren und hier und da hört man Sand rascheln. Unweigerlich beginnt zu Husten, als euch der modrige Geruch des Sarkophages in die Gescihter schlägt. Das vermoderte Innere scheint irgendwann in der Zeit feucht geworden, jetzt aber wieder getrocknet zu sein. Der Körper in stinkenden staubigen Muhlbinden eingewoben, in den Händen ein altes rostiges Zweihandschwert haltend. Eine brüchige durch die Zeit schäbig aussehende Krone auf dem Kopf des einst versüfften Leichnams scheint sich just in dem Moment, als ihr sie erblicktet, vom Kopf zu rutschen. 
+Dabei entzündet sich eine der Fackeln am hinteren Ende Kamer und verfärbt die Kammer in ein dunkles blutrotes Ambiente. Ihr hört Schlachtenlärm und Todeschreie. Es scheint als seien die Reliefe zum Leben erwacht. Luft und Staub innerhalb des Sarkophages scheinen von dem Leichnahm angesaugt zu werden und als der dunkle Priester in dem Relief vor Euch sein grausames Werk vollendet und der Schrei eines kleinen Mädchen zu hören ist, entzündet sich die zweite Fackel und die Szenerie wird wieder von Schwerterlärm und Schmerzensschreien geprägt. Wieder vibriert der Raum, diesmal stärker als würde die gesamte Grabkammer wackeln. Deutlich mehr Sand als vorher ist raschelnd auf den Boden niederregnen zu hören.
+</div>
+
+Die Spieler hier auf den Tod warten (pro Spielrunde wird eine sich eine Fackel entzünden). Brennen alle wird die ganze Grabkammer binnen weniger Speilrunden einstürzen, den Staub entzünden und damit die Königsknochen und wohl vermutlich auch die Spieler entzünden.
+
+Die Spieler sollten sich beeilen um die Knochen zu verbrennen, sobald der Leichnahm brennt, entzündet sich keine Fackel mehr. Im Gegenteil, sie werden langsame wieder erlöschen.
+
+<div class='descriptive'>
+##### Königsgeist
+Ihr verdammten Narren! Verflucht seid ihr Würmer! Ihr wisst nicht, was ihr getan habt...
+</div>
+
+## Das Erwachen der Toten
+
+
+## Der Unterschlupf des Dorfmagiers
+
+<div class='descriptive'>
+##### Das Haus: Die Falltür
+Ihr betretet ein von außen unscheinbar aber zerfallen aussehendes Haus. Eine alte Wohnstube und eine kleine vor Jahren erloschene Feuerstelle lassen erkennen, daß es bereits seit Jahren leer steht.Die Möbel sind verkommen, die Fensterläden klappern und der Wind zieht ein. Etwa in der Mitte der Stube kann man einen Teppich erkennen, der zur Seite geschoben wurde und eine hölzerne geschlossene Falltür verdeckte. Durch die Ritzen scheint Licht zu scheinen. 
+</div>
+
+<div class='descriptive'>
+##### Das Haus: Die Kellertreppe
+Langsam schreitet ihr die Kellertreppe herunten. Der Staub vieler Jahre liegt auf den Stufen. Fackelschein flimmert den schmalen Gang entlang.
+</div>
+
+Wenn die Spieler den Keller betreten, werden sie auf ein Anti-Magie Feld stoßen, was alle aktiven Zaubersprüche sofort beendet.
+
+<div class='descriptive'>
+##### Das Haus: Die Zeremonie
+Ihr betretet einen länglichen Kellerraum, der durch viele Fackelständer erhellt wird. Ein Arbeitstisch mit einer Menge an Büchern und Schriftrollen steht an der linken Seite. Am Ende des Raumes erkennt ihr einen Opfertisch. Ari, das kleine Mädchen aus dem Dorf liegt bewußtlos auf ihm. Hinter ihr steht ein wahnsinnig aussehender Thallian, der mit einem gezielten Schnitt "Der Schmach" dem kleinen Leben ein Ende schenkt. Die Schmach glüht kurz auf, die Fackellichter strahlen gleißend hell, heller als die Sonne und geblendet hört ihr das Lachen des Schwarzmagiers: "Ihr kommt zu spät!".
+Ihr hört ein dreimaliges Klopfen und plötzlich ist der Spuk vorbei. Die Fackeln leuchten wieder normal, Thallian ist fort. "Nein, nein! Das kann nicht sein, Ari *schreit* *weint*" ruft ein menschliches Etwas das in einen metallenen Käfig eingesperrt ist der in der Ecke neben Euch steht.
+</div>
+
+Der Mann in dem Käfig ist Collgar. Ari ist tot und Thallian ist auf dem Weg in die Katakomben, um seinen Großmeister zu begrüßen.
+
+<div class='descriptive'>
+##### Colgar
+Danke das ihr mich befreit habt. Dieser verfluchte Bastard hat Ari getötet. Er hat mich vor einigen entführt und hier engesperrt. Er hat schlimme Dinge getan, doch ich habe so wie möglich versucht zu schweigen. Wir müssen ihn stoppen.
+</div>
+
+<div class='descriptive'>
+##### Colgar über Thallian
+Er war einer von uns. Er ist in diesem Dorf geboren, wir waren wie Brüder. Nach dem Brand von Alt-Norderbrunn hatte er sich verändert. Er ging fort um sich seinen Studien zu widmen. Er war sehr lange weg, dann kam er vor ein paar Monaten plötzlich zurück, so als ob keine Zeit vergangen wäre. Dabei waren es bestimmt fast 20 Jahre. Ich weis nicht was mit ihm passiert ist, doch es scheint nichts Gutes mehr in ihm zu sein.
+</div>
+
+<div class='descriptive'>
+##### Colgar über die Quelle
+Ich habe die Quelle ausgiebig untersucht. Thalian hatte mich immer dafür belächelt. Als ich erkannte, daß seine Kräfte nicht ausreichen würden bat ich Sharikhazar um Hilfe. Ich schenkte ihm als Freundschaftszeichen meinen Ring. Die Goblins sind an sich gute Kreaturen.
+Sharikhazar versprach zu helfen. Er wüsste alte Zauber, um das Wasser zu reinigen. Er warnte mich, eine feindselige Kreatur sei auf dem Weg über den Finsterkamm, auf der Suche nach dem, was die Quelle vergiftete. Außerdem sah er in seinen Visionen, wie Menschen versuchen würden, ihn von dem Reinigungszauber abzuhalten, da sie selbst das wollten, das die Quelle entweihte. Es erschrak mich, als er mir erzählte, wie er sterben würde. Ein Streuner würde ihn von hinten erstechen.
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor einigen Monaten
+Mit den Schriftrollen, die mein Meister mir schickte, kann ich endlich die alten Schriften entschlüsseln. Ich werde das Ritual sorgfältig vorbereiten. Nichts darf schief gehen, wenn ich den Geisterfluß in unsere Welt umleiten will. Ich, Thallian, werde das erste Siegel brechen.
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor einem Monat
+Es war harte Arbeit aber ich habe es geschafft. Ich konnte den Geisterfluß öffnen und das Lebenselixir des einzigartigen und wahren Radaments in unsere Welt umleiten. Es wird einige Zeit dauern, bis das Elixir vollständig in unsere Welt eingetreten ist. Die Quelle fließt langsam und behutsam und verwandelt sich immer mehr in den fantastischen Lebensaft. Es ist herrlich mit anzusehen wie es immer schwärzer wird und alles Leben verzehrt, das es berührt.
+-- 
+Seitdem mein Meister mir die Schriftrolle per Wagenzug schickte, fallen Goblins über die Lieferungen her. Diese verfluchten Kreaturen haben den Dolch gestohlen. Ich brauche ihn unbedingt wieder. Ich habe ein ungutes Gefühl, so als würde noch eine andere Macht am werken sein.  
+--
+Dieser verdammte Wechselbalg Kajes. Hochlogisch kombiniert er die Dinge die geschehen. Langsam wird er zur Last, er nervt mich. Zum Glück halten die meisten ihn für eine Art Belzebub. Nur Colgar nicht. Kajes kann wirklich zur Gefahr werden, ich sollte ihn aus dem Spiel nehmen. 
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor einer Woche
+Collgar wird langsame nervig. Immer wieder redet er von der Quelle. Sie sei verdorben und man müsse sie reinigen. Dieser verdammte Narr. Erkennt er denn nicht die Herrlichkeit die nun von ihr ausgeht? Er hat mir tatsächlich erzählt, daß er die Goblins beten will, die Quelle zu reinigen. Das muss ich unbedingt verhindern. Ich brauch mehr Zeit. Aber ich spüre auch, das die Lebenskraft Radaments bald vollständig in unsere Welt übertragen wurde.
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor einer Woche
+Ich hatte ihn gewarnt. Nun muss er mit den Konsequenzen leben. Ich habe Collgar am Norderbrunn überwältigen können. Seitdem halte ich ihn gefangen. Er kann mir ein gutes Druckmittel sein, mal sehen wofür ich ihn noch gebrauchen kann.
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor ein paar Tagen
+Mit dem letzten Wagenzug ist eine Gruppe Abenteurer angekommen. Sie kommen gerade rechtzeitig. Hat mir Colgar doch unter Folter erzählt er habe den Goblinmagier Sharikazhar beauftragt die Quele zu reinigen. Mit ihrer verdammten Goblinmagie könnten sie auch schaffen. Dabei ist der Prozeß so gut wie abgeschlossen. Vielleicht könnten mir die Abenteurer die Aufgabe abnehmen und sich um die Goblins kümmern. 
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor ein paar Tagen
+Der verfluchte Goblinmagier ist tot. Gerade rechtzeitig, wie die Abenteurer es mir erzählten. Nebenbei haben sie noch einen Oger getötet. Außerdem haben sie einen Leichnahm gefunden und halten ihn für Colgar. Ich glaube es war der Streuner, denich beauftragte nach dem Dolch zu suchen. Und sie haben eben diesen Dolch gefunden, sehr gut. Es wäre nicht gut, wenn sie nun wieder aufbrechen würden. Ich brauche sie noch für den Wächtergeist, dann werden sie mir überdrüssig. Sie langweilen mich bereits. Das mit dem Oger ist merkwürdig. Hoffentlich waren sie da nicht etwas voreilig. Wenn die Goblins die Wagenladungen überfallen haben, dann im Auftrag von Sharikazhar. Doch was wollte der Oger hier? Ich denke nicht das er eingeladen war. Wahrscheinlich ist noch eine weitere Macht mit im Spiel, etwas hinter dem Finsterkamm. Ich muss das unbedingt meinem Meister mitteilen.
+</div>
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Gestern
+Bald ist der große Tag. Der Wächter ist bereits erweckt. Ich werde die Abenteurer zum Hügelgrab schicken, wo sie den Geist bannen können und dann hoffentlich dort verenden werden. Wenn sie das Grab überleben sollten, so werden die Untoten sich um sie kümmern. Dann wird das zweite Siegel endlich gebrochen sein. 
+</div>
+
+## Radaments Erwachen
+
+## Beratung im Dorf
+
+## Die Burg des Königs
+
+## Die alte Stadt
+
+## Showdown
+
+## Das Ende
+
+## Die Siegel
+
+### Das erste Siegel 
+
+**Thallian** hat einen dunklen Großmeister wahrscheinlich in **Greifenfurt** vor vielen Jahren kennengelernt. Dieser schickte ihm die schwarze Zauberformel um das Quellwasser in das Blut des **Radaments** zu verwandeln. Dadurch wurde erste Siegel gebrochen und der Königsgeist erweckt. Das Gegenstück dazu war die Enthauptung des Schlächters durch den alten König früher an der Quelle.
+
+### Das zweite Siegel
+Das zweite Siegel ist der Königsgeist, der über die Toten wacht und sie im Falle eines Zerbrechens des ersten Siegels vom auferstehen abhält. Werden seine Überreste verbrannt, gibt es nur noch das dritte Siegel, das **Radament** vor dem Auferstehen abhält. Das Gegenstück dazu war der Tod des alten Königs, der fortan aüber die Toten wacht.
+
+### Das dritte Siegel
+Die kleine **Ari**, ein kleines unschuldiges Mädchen, das von **Thallian** gopfert wird. Hier war das Gegenstück die Opferung des einzigen Kindes, daß der alte König hatte, seine Tochter. Damit sollte **Radament** auf ewig gebunden sein.
+
+\page
+
+
+## Karten
+
+# Ursprung der Quelle
+
+<div class='wide'>
+<img   src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/ursprung_der_quelle.png?raw=true' 
+  />
+</div>
+
+\page
+
+# Goblinhöhle
+
+<div class='wide'>
+<img   src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/hoehle_der_goblins.png?raw=true' 
+   />
+</div>
+
+\page
+
+# Königsbrab - 1
+
+<div class='wide'>
+<img 
+  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/koenigsbrab-1.png?raw=true'
+   />
+<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
+  />
+</div>
+
+\page
+
+# Thallians
+
+<div class='wide'>
+<img 
+  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/thallians.png?raw=true'
+   />
+<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
+  />
+</div>
+
+\page
+
+# Burg des Königs - 1
+
+<div class='wide'>
+<img 
+  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/burg-des-koenigs-1.png?raw=true'
+   />
+<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
+  />
+</div>
+
+\page
+
+# Burg des Königs - 2
+
+<div class='wide'>
+<img 
+  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/burg-des-koenigs-2.png?raw=true'
+   />
+<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
+  />
+</div>
+
+\page
+
+# Kanalisation - 1
+
+<div class='wide'>
+<img 
+  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/kanalisation-1.png?raw=true'
+   />
+<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
+  />
+</div>
+
+\page
+
+# Kanalisation - 2
+
+<div class='wide'>
+<img 
+  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/kanalisation-2.png?raw=true'
+   />
+<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
+  />
+</div>
+
+\page
+
+
+<div class='toc'>
+##### Table Of Contents
+- **[1 Die Legende von Radament](#p1)**
+  - [1.1 Handlungsstrang](#p1)
+  - [1.2 In der Schenke](#p2)
+  - [1.3 Am Morgen des Aufbruchs](#p2)
+  - [1.4 Tag 1](#p2)
+  - [1.5 Tag 2](#p2)
+  - [1.6 Tag 3](#p3)
+  - [1.7 Die Ankunft im Dorf](#p3)
+  - [1.8 Die Quelle](#p4)
+  - [1.9 Wieder in der Schenke](#p4)
+  - [1.10 Der Ursprung der Quelle](#p5)
+  - [1.11 Die Suche nach den Goblins](#p6)
+    - [1.11.1 Die Goblinhöhle](#p6)
+  - [1.12 Zurück im Dorf](#p8)
+  - [1.13 Der Friedhof](#p8)
+  - [1.14 Wieder im Dorf](#p8)
+  - [1.15 Das Königsgrab](#p8)
+  - [1.16 Verbannen des Königsgeistes](#p8)
+  - [1.17 Das Erwachen der Toten](#p8)
+  - [1.18 Der Unterschlupf des Dorfmagiers](#p8)
+  - [1.19 Radaments Erwachen](#p8)
+  - [1.20 Beratung im Dorf](#p8)
+  - [1.21 Die Burg des Königs](#p8)
+  - [1.22 Die alte Stadt](#p8)
+  - [1.23 Showdown](#p8)
+  - [1.24 Das Ende](#p8)
+  - [1.25 Karten](#p9)
+- **[2 Ursprung der Quelle](#p9)**
+- **[3 Goblinhöhle](#p10)**
+- **[4 Königsbrab - 1](#p11)**
+- **[5 Königsbrab - 2](#p12)**
+- **[6 Thallians](#p13)**
+- **[7 Burg des Königs - 1](#p14)**
+- **[8 Burg des Königs - 2](#p15)**
+- **[9 Kanalisation - 1](#p16)**
+- **[10 Kanalisation - 2](#p17)**
+</div>
+
