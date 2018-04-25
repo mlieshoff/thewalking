@@ -27,11 +27,13 @@ Zurück im Dorf gibt es natürlich ein schönes Gemetzel. Danach werden die Spie
 
 Im Wald könnten die Spieler seinen geheimen Unterschlupf entdecken. Dieser wird bewacht. Im Keller verrichtet der Dorfmagier sein Werk, er wird das junge Mädchen mit dem Dolch töten. Dann wird er sich wegeleportieren. Im Keller finden die Spieler merkwürdige Aparaturen, auch den sehr geschwächten Ältesten, der den Spielern noch erzählen kann, das der Dorfmagier unter schwarzer Magie steht und den untoten König Radament beschworen hat. Sie finden auch Hinweise darauf, wie man Radament wieder einsperren kann. Sie müssen in die alte Ruine einer kleinen Burg, in der der König lebte und dort den Königsring finden. Kein Kampf, aber ein Spieler muss ein Opfer darbringen und seine Seele dem Königsgeist pfänden, damit dieser den Ring heraus gibt und hilft (nach Abschluss ist der Spieler wieder frei). 
 
+\page
+
 Von nun an gibt es ein echtes Zombieproblem... Die Spieler werden erfahren, daß es in der Nähe des Schlachtfeldes eine Stadtruine gibt (nur sehr rudimentär). Dort hat sich in den Katakomben Radament zur Ruhe gesetzt. In den Katakomben gibt es ein schönes Geschnetzel und die Spieler sollten es schaffen können Radament magisch zu fixieren (mit dem Königsring / Geist). Dann können sie den Dorfmagier überwältigen, der seine Seele geben muss um Radament für immer einzusperren (mit dem Dolch töten). Radament wird mitsamt des Königsgeistes und dem Ring in einer beeindruckenden Kampfpose zu Stein erstarren. Alle Zombies werden danach sterben.
 
 \page
 
-
+# Akt I
 
 ## In der Schenke
 
@@ -63,6 +65,9 @@ Falls die Spieler genauere Informationen haben möchten, wird er Ihnen folgendes
 Der Zug besteht aus drei Wagen. Drei Fahrer werden Euch begleiten. Ihr seid für deren Sicherheit zuständig und natürlich auch für die Ware! In letzter gab es da vermehrt Probleme. Übergriffe von Goblingesochse. Wird Zeit das man denen Mal Einhalt gebietet! 
 </div>
 
+```
+```
+
 ## Am Morgen des Aufbruchs
 
 <div class='descriptive'>
@@ -90,6 +95,8 @@ Der Rastplatz wird gut gewählt. Abends sollte jemand kochen und es wird ein sch
 
 Den Spielern sollte das Gefühl vermittelt werden, als ob der Wald sie beobachtet. Sie sollten schlecht schlafen, oft wach werden usw. Macnhmal raschelt etwas bei der Wache. Angst und Unbehagen erzeugen!
 
+\page
+
 ## Tag 2
 
 <div class='descriptive'>
@@ -101,9 +108,6 @@ Den Fahrern scheint genauso zu gehen. Mühsam packen sie alles zusammen und ihr 
 </div>
 
 Der zweite Tag beginnt mit permanenten Nieselregen, mal stärker, mal schwächer. Ständig bewölkt, kalt, windig und unangenehm.
-
-\page
-
 
 Die Spieler sollten alle paar Stunden Körperkraftproben ablegen, um sich nicht ausruhen zu müssen.
 
@@ -140,9 +144,6 @@ ___
 
 Danach wird der Schlaf der Spieler sehr unangenehm werden, das es ordentlich frisch wird und natürlich schön regnet.
 
-```
-```
-
 ## Tag 3
 
 <div class='descriptive'>
@@ -156,6 +157,7 @@ Auch der dritte Tag sollte höchst unangenehm sein, auslaugend, Kräfte verzehre
 
 Ein schlechtes dunkles Gefühl der Unmut verbreitet sich außerdem unter den Spielern, je näher sie ihrem Ziel kommen.
 
+\page
 
 ## Die Ankunft im Dorf
 
@@ -171,8 +173,6 @@ Der Schwarzkrug, eine kleine Schenke im Herzen des Dorfs Norderbrunn. Die Fahrer
 
 "Lasst mich vorbei, mir hundsschlecht!" schimpft der Bauer, während er schnaubend und würgend an Euch vorbeiläuft, wahrscheinlich zu seinem Haus in der Nähe.
 </div>
-
-\page
 
 <div class='descriptive'>
 ##### Der Schwarzkrug
@@ -205,6 +205,8 @@ Die Spieler werden in der Schenke auch auf einen jungen Mann namens **Kajes** tr
 
 Über **Kajes** können die Spieler folgendes erfahren.
 
+\page
+
 <div class='descriptive'>
 ##### Irgendein Bauer
 Kajes Meeltheur... Es ist ein Wunder das er noch lebt. Es war ein Grauen für alle von uns, was damals in Alt-Norderbrunn geschah. Ein trockener Sommer, dann das schwere Gewitter, das Feuer im Dorf, die brennende Ernte... Die standen in Flammen, viele konnten sich retten. Kajes Eltern jedoch nicht. Das Feuer überraschte sie im Schlaf. Sie starben in den Flammen. Kajes, der kleine Junge von damals, mußte seine Eltern verbrennen sehen. Die Leute versuchten die Häuser zu löschen, doch alles brannte lichterloh. Colgar schließlich, damals noch 20 Jahre jünger, benässte sich, drang in das Haus von Kajes Eltern ein und rettete den jungen, der dann schlielich bei ihm aufwuchs.
@@ -221,8 +223,6 @@ Die Spieler können folgendes tun:
 * Am nächsten Tag zusammen mit den drei Wagenfahrern abreisen (keine weitere Belohnung). Abenteuer fertig.
 * Nach **Colgar** suchen und den Dorfbewohnern somit helfen. In diesem Fall wird ihnen angeboten, vergünstigt in der Schenke zu leben, 1/2 Silberkreuzer pro Person und Übernachtung und Essen. Sie bekommen in dem Fall ein oder zwei Zimmer im oberen Stockwerk.
 
-\page
-
 Die Fahrer werden später dazustoßen und sich ebenfalls ein Zimmer nehmen, um Morgen wieder abzureisen.
 
 Falls die Spieler abreisen wollen, werden sie in der Nacht Bekanntschaft mit einem kleinen jungen Mädchen **Ari** machen, der Enkelin **Colgars**, die neben der Schenke bei ihren Eltern wohnt. Sie wird den Spieler mit dem höchsten **Mutwert** ansprechen und ihn anflehen, den Großvater zu suchen und auch das Wasser wieder zu reinigen. Es sollte sehr dramatisch werden und an die Ehre der Spieler appellieren.
@@ -232,6 +232,9 @@ Falls die Spieler abreisen wollen, werden sie in der Nacht Bekanntschaft mit ein
 Zur Quelle ist es ungefähr ein Fußmarsch von einer Stunde. **Thalian**, aber auch jeder andere im Dorf kann den Spielern den Weg beschreiben. Niemand wird sie allerdings begleiten, alle scheinen sehr beängstigt zu sein.
 
 Der nächste Tag bricht an, es regnet nicht mehr so stark, wie in der Nacht. Es ist bewölkt und kühl.
+
+```
+```
 
 <div class='descriptive'>
 ##### Die Quelle
@@ -263,6 +266,8 @@ Ab diesem Moment ist er wieder der **heilige Martinus**.
 
 **Thallian** könnte sich auf Nachfrage nicht an einen Ursprung erinnern. Der Ursprung der Quelle ist für ihn der Stein. 
 
+\page
+
 ## Der Ursprung der Quelle
 
 Sollten die Spieler sich wirklich gegen Mitternacht an der Quelle einfinden, werden sie wirklich ein Naturschauspiel beobachten können. Der Mitternachtsmond erleuchtet das Gebirge an einem einzigen Punkt, dessen Fuße man ungefähr in einer Stunde erreichen könnte.
@@ -280,8 +285,6 @@ Ihr betretet eine große Höhle, in der vereinzelt Fackelständer in den Boden g
 Die Spieler werden von sechs Goblins angegriffen. Im hinteren Teil der Höhle befindet sich ein Goblinschamane, der gerade versucht das Quellwasser von seinem bösen Zauber zu befreien. Mindestens zwei Goblins sollten vor dem Angriff ihre Bögen abfeuern.
 
 Der Schamane wird versuchen sich zu ergeben und versuchen mittels Zauberei mit den Spielern zu kommunizieren. Dabei schimpft er einige Worte und seine Hände beginnen zu glühen. Die Spieler sollten ihn töten. Einem magiebegabten Spieler könnte der Schamane vielleicht noch erreichen und ihm folgende Worte vor seinem Tod ins Ohr setzen "Wasser böse".
-
-\page
 
 ___
 > ## Goblin
@@ -333,6 +336,8 @@ Diese Säule dieser Höhle ist stark mit Moos bewaschen. Der Boden leuchtet schw
 
 Wenn die Spieler sich den hinteren Teil der Höhle ansehen wollen, werden sie ein großes Wandrelief stark Moos bewachsen entdecken.
 
+\page
+
 <div class='descriptive'>
 ##### Wandrelief
 Das Relif zeigt einengroßen menschlichen Krieger mit einer goldenen Krone und einemlangen goldenen Schwert. Er scheint gerade einen anderen menschenähnlichen mit Pferdekopf enthauptet zu haben. Das Blut das aus diesem Körper läuft, scheint in eine Steinbecken zu laufen, an dessen einer Seite ein sehr hoher Stein steht.
@@ -363,9 +368,6 @@ Die Spieler sollten den Dolch finden und zu **Thallian** bringen.
 Tun sie dies nicht,wird **Thallian** den Dolch entweder selbst finden, oder nachts bei den Spielern stehlen während sie schlafen. Er kann auch **Ari** beauftragen dies zu tun, während die Spieler in einer Menge sind.
 
 Vor der Goblinhöhle sollte werden zwei Wachposten stehen, die vereinzelt auch mal Patrouille laufen.
-
-\page
-
 ___
 > ## Goblin
 >*Einfache Späher*
@@ -411,8 +413,8 @@ ___
 
 In der Höhle ist nicht zu finden. In dem kleinen Fortsatz schlafen die Goblins. Es riecht stark und überhaupt liegt viel Unrat herum.
 
-```
-```
+\page
+
 
 <div class='descriptive'>
 ##### Raum 2
@@ -451,8 +453,6 @@ ___
 > ### Aktionen
 > ***Beil*** 1W6+2
 
-\page
-
 ___
 > ## Oger
 >*Locke*
@@ -489,14 +489,13 @@ Die Kiste ist **schwer** verschlossen. Sie enthält einen alten Dolch mit merkw�
 
 Außerdem finden die Spieler zwei Tränke mit blauer Flüssigkeit hier (Astraltränke jeweils 1W20).
 
+\page
+
 <div class='descriptive'>
 ##### Raum 6
 Es riecht furchtbar nach Fäkalien in diesem Raum. In einer hinteren Ecken kann man ein rauschen aus einer im Boden befindlichen kleinen Felsspalte hören.</div>
 
 Hier ist absolut nichts, nur Scheisse.
-
-```
-```
 
 <div class='descriptive'>
 ##### Raum 7
@@ -531,6 +530,8 @@ Natürlich ist **Der heilige Martinus** Abends auch in der Schenke. Stichpunktar
 * Ein Hengst, ein Hengst aus Silbertal
 
 \page
+
+# Akt II
 
 ## Am nächsten Morgen
 
@@ -736,8 +737,12 @@ Die Spieler sollten sich beeilen um die Knochen zu verbrennen, sobald der Leichn
 Ihr verdammten Narren! Verflucht seid ihr Würmer! Ihr wisst nicht, was ihr getan habt...
 </div>
 
-## Das Erwachen der Toten
+\page
 
+
+# Akt III
+
+## Das Erwachen der Toten
 
 ## Der Unterschlupf des Dorfmagiers
 
@@ -782,12 +787,13 @@ Sharikhazar versprach zu helfen. Er wüsste alte Zauber, um das Wasser zu reinig
 Mit den Schriftrollen, die mein Meister mir schickte, kann ich endlich die alten Schriften entschlüsseln. Ich werde das Ritual sorgfältig vorbereiten. Nichts darf schief gehen, wenn ich den Geisterfluß in unsere Welt umleiten will. Ich, Thallian, werde das erste Siegel brechen.
 </div>
 
+\page
+
+
 <div class='descriptive'>
 ##### Tagebuch Thallians: Vor einem Monat
-Es war harte Arbeit aber ich habe es geschafft. Ich konnte den Geisterfluß öffnen und das Lebenselixir des einzigartigen und wahren Radaments in unsere Welt umleiten. Es wird einige Zeit dauern, bis das Elixir vollständig in unsere Welt eingetreten ist. Die Quelle fließt langsam und behutsam und verwandelt sich immer mehr in den fantastischen Lebensaft. Es ist herrlich mit anzusehen wie es immer schwärzer wird und alles Leben verzehrt, das es berührt.
--- 
+Es war harte Arbeit aber ich habe es geschafft. Ich konnte den Geisterfluß öffnen und das Lebenselixir des einzigartigen und wahren Radaments in unsere Welt umleiten. Es wird einige Zeit dauern, bis das Elixir vollständig in unsere Welt eingetreten ist. Die Quelle fließt langsam und behutsam und verwandelt sich immer mehr in den fantastischen Lebensaft. Es ist herrlich mit anzusehen wie es immer schwärzer wird und alles Leben verzehrt, das es berührt. 
 Seitdem mein Meister mir die Schriftrolle per Wagenzug schickte, fallen Goblins über die Lieferungen her. Diese verfluchten Kreaturen haben den Dolch gestohlen. Ich brauche ihn unbedingt wieder. Ich habe ein ungutes Gefühl, so als würde noch eine andere Macht am werken sein.  
---
 Dieser verdammte Wechselbalg Kajes. Hochlogisch kombiniert er die Dinge die geschehen. Langsam wird er zur Last, er nervt mich. Zum Glück halten die meisten ihn für eine Art Belzebub. Nur Colgar nicht. Kajes kann wirklich zur Gefahr werden, ich sollte ihn aus dem Spiel nehmen. 
 </div>
 
@@ -806,6 +812,9 @@ Ich hatte ihn gewarnt. Nun muss er mit den Konsequenzen leben. Ich habe Collgar 
 Mit dem letzten Wagenzug ist eine Gruppe Abenteurer angekommen. Sie kommen gerade rechtzeitig. Hat mir Colgar doch unter Folter erzählt er habe den Goblinmagier Sharikazhar beauftragt die Quele zu reinigen. Mit ihrer verdammten Goblinmagie könnten sie auch schaffen. Dabei ist der Prozeß so gut wie abgeschlossen. Vielleicht könnten mir die Abenteurer die Aufgabe abnehmen und sich um die Goblins kümmern. 
 </div>
 
+```
+```
+
 <div class='descriptive'>
 ##### Tagebuch Thallians: Vor ein paar Tagen
 Der verfluchte Goblinmagier ist tot. Gerade rechtzeitig, wie die Abenteurer es mir erzählten. Nebenbei haben sie noch einen Oger getötet. Außerdem haben sie einen Leichnahm gefunden und halten ihn für Colgar. Ich glaube es war der Streuner, denich beauftragte nach dem Dolch zu suchen. Und sie haben eben diesen Dolch gefunden, sehr gut. Es wäre nicht gut, wenn sie nun wieder aufbrechen würden. Ich brauche sie noch für den Wächtergeist, dann werden sie mir überdrüssig. Sie langweilen mich bereits. Das mit dem Oger ist merkwürdig. Hoffentlich waren sie da nicht etwas voreilig. Wenn die Goblins die Wagenladungen überfallen haben, dann im Auftrag von Sharikazhar. Doch was wollte der Oger hier? Ich denke nicht das er eingeladen war. Wahrscheinlich ist noch eine weitere Macht mit im Spiel, etwas hinter dem Finsterkamm. Ich muss das unbedingt meinem Meister mitteilen.
@@ -815,6 +824,8 @@ Der verfluchte Goblinmagier ist tot. Gerade rechtzeitig, wie die Abenteurer es m
 ##### Tagebuch Thallians: Gestern
 Bald ist der große Tag. Der Wächter ist bereits erweckt. Ich werde die Abenteurer zum Hügelgrab schicken, wo sie den Geist bannen können und dann hoffentlich dort verenden werden. Wenn sie das Grab überleben sollten, so werden die Untoten sich um sie kümmern. Dann wird das zweite Siegel endlich gebrochen sein. 
 </div>
+
+\page
 
 ## Radaments Erwachen
 
