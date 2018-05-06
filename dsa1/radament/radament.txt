@@ -33,7 +33,7 @@ Von nun an gibt es ein echtes Zombieproblem... Die Spieler werden erfahren, daß
 
 \page
 
-# Akt I
+# Akt I: Die Vorahnung
 
 ## In der Schenke
 
@@ -531,7 +531,7 @@ Natürlich ist **Der heilige Martinus** Abends auch in der Schenke. Stichpunktar
 
 \page
 
-# Akt II
+# Akt II:Die Erkenntnis
 
 Dieser Akt handelt von der Begegnung mit dem Königsgeist auf dem Friedhof, der anschließende Vernichtung des Geistes, dem Überfall der Zombies auf das Dorf und der Opferung der kleinen **Ari**.
 
@@ -959,13 +959,13 @@ Einst, vor tausenden von Jahren, herrschte Fürst **Durenald Konrad Greifax** in
 Doch **Durenald**, seine vier engsten Vertrauten, die Ratskrieger **Rondrborn Regolan von Binsböckel**, **Drachwidda Ucurium von Sturmfels**, **Wolfwin Lucardus von Dunkelstein** und **Ritter Wildwerth Cordovan Bregelsaum** und ein paar Kämpfer der Miliz stellten sich dem Bösen immer wieder und verhinderten den Durchbruch an dieser Stelle des **Finsterkamms**.
 Niemand hätte damals damit gerechnet, das ausgerechnet aus dem Landesinneren, dem Süden der Reiche eine Kreatur geschaffen wurde, die den Vormarsch Bösen in **Kaltenfels** vorbereiten sollte. 
 Erschaffen als Kind der Verdammnis, die Kreuzung schwarzer Magie und eines Menschen, gebrütet im Körper einer toten Hure. Sein Erzeuger nannte das Balg **Radament** und lehrte es die Geheimnisse der Totenbeschwörung. Schon bald tötete das schnell wachsende Balg seinen Erzeuger und widmete sich den bösen Stimmen in seinem Inneren. Sein Ziel war **Kaltenfels**.
-Es entbrannte eine große Schlacht in **Kaltenfels**. Unzähle Orks und Trolle marschierten über den **Finsterkamm**, überrannten die **Lagergard**, während Horden von Untoten, angeführt von **Radament** sich in der Stadt **Kaltenfels** ausbreiteten. Unvorstellbares Chaos breitete sich aus, viele Seelen starben während dieser Zeit, die Stadt wurde dabei vollständig zerstört. 
+Es entbrannte eine große Schlacht in **Kaltenfels**. Unzähle Orks und Trolle marschierten über den **Finsterkamm**, überrannten die **Lagergard**, während Horden von Untoten, angeführt von **Radament** sich in der Stadt **Kaltenfeld** ausbreiteten. Unvorstellbares Chaos breitete sich aus, viele Seelen starben während dieser Zeit, die Stadt wurde dabei vollständig zerstört. 
 Doch mit der Hilfe der Götter trotzten **Durenald** und sein Rat der Belagerung und schafften es dem Feind mit einer kleinen Armee in einer schier endlosen Schlacht einen empfindlichen Treffer zu verursachen, von dem er sich nicht mehr erholen sollte.
 Es gelang ihnen **Radament** and der **Feenquelle** zu stellen. **Durenald** richtete seinen Feind mit dem Schwert. **Radamant** schien zu sterben, sein schwarzes Blut suchte sich seinen Weg über den Waldboden in das Quellwasser und Schlangen kamen aus dem Unterholz um sich in dem Wasser zu laben.
 Nachdem die Priester große Zauber sprachen, traf sie eine schreckliche Vorahnung. So einfach sei das Böse nicht zu verdammen. Um das Böse vollständig zu bannen erfordere es ein hohes Opfer und die Schmach desjenigen, der es ausführe.
 So opferte **Durenald** selbst sein einziges Kind, seine Tochter **Brin**. Doch der Priester Zufriedenheit war immer noch nicht genug getan. **Radament** selbst sei nun gebunden, doch dessen Armeen seien es nicht. Jemand müsse die Toten in Schach halten und zwar dann, wenn sie entstehen. 
 Und so, als letztes Opfer, dem Opfer seiner selbst, beendete **Durenald** sein Leben mit dem Dolch, mit dem er zuvor sein einziges Kind opferte. Die Priester erschuffen einen starken Wächtergeist aus ihm, einem Geisterkämpfer, der den unzufriedenen Seelen einhalt gebührte.
-In einem letzten Ritual, wurden die sterblichen Gebeine des Fürsten und seiner Ratsgefährten im Hügelgrab **Tommelich** beigesetzt, danach nahm sich die Zeit des Vergessens **Kaltenfels** an. Das Geschehene wurde zu Geschichten, Geschichten wurden zu Legenden.
+In einem letzten Ritual, wurden die sterblichen Gebeine des Fürsten und seiner Ratsgefährten im Hügelgrab **Tommelich** beigesetzt, danach nahm sich die Zeit des Vergessens **Kaltenfeld** an. Das Geschehene wurde zu Geschichten, Geschichten wurden zu Legenden.
 </div>
 
 \page
@@ -1001,23 +1001,176 @@ Der Spielleiter sollte zu diesem traurigen Ereigniss einige Minuten der Ruhe ein
 
 \page
 
-# Akt III
+# Akt III: Der finale Schlag
 
-An diesem Punkt beginnt der finale Akt. Der Akt handelt vom Wiederbeleben des Königsgeistes und dem anschließenden Showdown in denKatakomben der Ruinen.
+An diesem Punkt beginnt der finale Akt. Der Akt handelt vom Wiederbeleben des Königsgeistes und dem anschließenden Showdown in denKatakomben der Ruinen. 
 
-\page
-
-## Radaments Erwachen
+**Thallian** hat bereit mit der Erweckung **Radaments** in den Katakomben der Stadtruine begonnen. Es wird jedoch einige Zeit dauern, bis sich sein Körper in der Wel wieder gefestigt hat.
 
 ## Beratung im Dorf
 
+Eine Beratung mit **Collgar** über die Geschehnisse seiner Gefangenschaft könnten folgendes ergeben:
+
+<div class='descriptive'>
+##### Collgar über seine Gefangenschaft
+Ich hörte Thallian immer wieder über eine Schwachstelle sprechen, die es unbedingt zu vermeiden gelte. Er sprach über alte Gemäuer und etwas, das sich in seinem Inneren aufhielte und gefährlich werden könnte. Er meinte ein Streuner würde sich darum kümmern.
+</div>
+
+Damit ist die alte Burgruine gemeint. Der einstige Sitz des Fürsten. Dort befindet sich eine Statue des Fürsten, an der der Geist wiederbelebt werden kann.
+
 ## Die Burg des Königs
+
+<div class='descriptive'>
+##### Burghof
+Ihr betretet eine alte Burgruine. Schemenhaft sind noch die Überreste der vier einst prächtigen Türme zu erkennen, von denen heute keiner mehr höher als vier bis fünf bis Meter ist. Geschliffen durch Wetter und Zeit sind ebenfalls die Mauern, von denen nur noch moosbewachsene Reste vorhanden sind. Ungefähr in der Mitte des Platzes befindet sich eine etwa drei Meter hohe Statue, die den Fürsten sich stützend auf ein großes zweihändiges Schwert darstellt. 
+</div>
+
+Wenn die Spieler sich die Statue ansehen, werden sie folgende Schriftzeichen entdecken:
+
+"Mich gab es nie. Mich wird es immer geben. Niemand sah mich je, noch wird mich jemals jemand sehen, und doch vertrauen alle auf mich, die in dieser nüchternen Halle leben und atmen."
+
+Sprechen die Spieler das Wort "Morgen", so wird sich der Geist abermals materialisieren.
+
+<div class='descriptive'>
+##### Der Geist des Fürsten
+Nachdem das Wort gesprochen wurde, vernehmt ihr ein leichtes Beben, oder waren es die dicken Wolken und ein nahender Donner? Ein Blitz zuckt hoch über euch und ein lautes Donnern ist zu hören. 
+Plötzlich materialisiert sich der Geist des Fürsten erneut als riesiger Krieger, gerade in der Bewegung, in der ihr in sterben sehen habt. Er schwingt sein Schwert gegen XXX, der wie versteinert da steht. Und kurz bevor es seinen Hals trifft stoppt er den Schlag, "Du!".
+"Wieso habt ihr mich erneut geweckt?" 
+</div>
+
+Die Spieler können nun etwas mit ihm kommunizieren.
+
+"Ihr habt dem Bösen in Kaltenfeld die Tore geöffnet, dafür müsst ihr nun selbst einstehen."
+"Der Rat wird über Euch richten!"
+
+Die Spieler könnten versuchen, herauszufinden, wie man den Geist gewinnen könnte.
+
+<div class='descriptive'>
+##### Der Geist
+Das Böse erneut zu bezwingen, erfordert die Verschmelzung des Toten und des Lebendigen. Damals war mein Opfer das größte, das ein Mensch bringen konnte. So sollte Eures nicht geringer sein. Wenn ich Euch helfe, so erfordert es ein Seelenpfand von einem von Euch, eine Verbindung zwischen mir und ihm. Bezwingen wir das Böse erneut und für allemal, wird die Seele dieses einen befreit sein, hintergeht ihr mich erneut, wird diese Seele mich in die Welt der Schatten begleiten, wo ich sie richten und den Hunde der Verdammnis zum Fraß vorwerfen werde. Nun, wer von Euch ist voller Ehre und Willens genug diese Opfer zu erbringen?
+</div>
+
+Der Spieler der sich als Seelenpfand zu Verfügung stellt, erhält 50 Abenteuerpunkte extra. Außerdem 1W6 Trefferpunkte ohne Rüstung, da ihm ein Mal in die Backe eingebrannt wird. Gelingt es den Spielern nicht, **Radament** zu töten, wird dieser Spieler sterben.
+
+<div class='descriptive'>
+##### Das Mal
+"So sei es!"
+Gleißendes Licht brennt aus den Fingrn des Geistes direkt in das Gesicht von XXX. Er schreit laut auf. Als das Licht verblasst, die Schmerzensschreie verstummen und er die Hände vom Gesicht nehmt, erkennt ihr ein sichelförmiges Mal auf seiner linken Wange.
+</div>
+
+Dieser Spieler erkennt die Welt ab und zu aus den Augen des Fürsten. Der Spielleiter sollte ihm ab und zu beschreiben, wie es damals aussah, Realität und Vergangenheit sollten miteinander verscmelzen.
+
+So kann er den Spielern den Weg zur alten Stadt beschreiben.
 
 ## Die alte Stadt
 
+<div class='descriptive'>
+##### Die alte Stadt
+Nach einem längeren Marsch erreicht ihr eine seltsame Stelle im Wald. Überall liegen moosbewachsene Mauerstücke auf dem Waldboden herum. Etwas großes Stand hier vor vielen Jahren. 
+</div>
+
+<div class='descriptive'>
+##### Der Auserwählte
+Noch gerade als über einen der Steine läuft, wirst du unsanft von einer kleinen Gruppe von Händlern angerempelt. Marktgeschrei erschreckt dich. Ein Pferd direkt neben dir schnauft. Kleine Kinder rennen umher. "Verfluchte Wechselbälger!" schimpft ein Mann hinter einem Obststand. Ein gutes Gefühl breitet sich in dir aus, zu Hause, endlich wieder da heim. Danach verblasst die Szenerie wieder.
+</div>
+
+Nach einigem Suchen können die Spieler einen verschütteten Zugang zur Kanalisation finden.
+
 ## Showdown
 
-## Das Ende
+<div class='descriptive'>
+##### Raum 1
+Eine grausame Szenerie breitet sich vor euch aus. Der große Raum wird von einem rötlichen Licht erhellt, dessen Quelle ein großes Portal an der hinteren Wand zu sein scheint. Davor, auf einem großen Podest stehen zwei große Ständer, an dessen oberen Ende jeweils eine blaue Energiekugel schwebt, die einen konstanten bläulichen Strahl auf ein abscheuliches Wesen abgeben. Es ist gute 3 Meter hoch, athletisch und stark gebaut, ähnelt einem Menschen, mit dem Gesicht eines blutrünstigen Hundes. "Willkommen in meinem Reich, schließt euch uns an,oder gebt für immer eure Leben!". Ihr erkennt eine lange Klinge, die ihm scheinbar aus dem rechten Unterarm gewachsen ist. Lange gefährlich scharf aussehende Krallen scheinen ihm aus den Fingern dr anderen Hand zu wachsen. Der Weg dorthin wird von großen Becken blockiert, über die hinweg nur schmale Stege führen. Aus den Becken hiefen sich die schweren leblosen Körper derjeniger, die bereits aus dem Portal gekommen sind. 
+Euch graut es, als ihr das erkennt, das sich über den Becken befindet. **Thalian**, entblößt, gehalten durch Ketten von den Wänden und der Decke. Durch unzählige Haken unter Haut wurde er dort oben aufgespannt und blickt euch wahnsinnig an: "Es ist so herrlich, so wunderschön! Kommt, und seht, was ich sehe!" 
+</div>
+
+Die Waffe des Auserwählten beginnt rot zu glühen, wenn er **Radament** anschaut.
+
+Die Spieler sollten gegen jede Menge Zombies kämpfen müssen, mindestens drei für jeden. **Thallian** wird hin und wieder (alle zwei Kampfrunden) einen Zauberspruch gegen sie feuern.
+**Radament** wird dasselbe tun (alle zwei Kampfrunden), bis eine der blauen Kugeln getroffen wurde. Dann wird er versuchen (3 Kampfrunden) sie wieder einzuschalten und den Portalbetrieb offenzuhalten. Sind beide zerstört und das Portal geschlossen, wird Radament in den Zweikampf gehen. Er kann **NUR** durch den Auserwählten verletzt werden. 
+
+Sind alle besiegt worden, ist das Böse vertrieben.
+
+___
+> ## Zombie
+>*Streuner*
+> ___
+> - **Rüstungsschutz** 0
+> - **Monsterklasse** ???
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 20|   8   |   -  | 16         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Biß*** 1W6
+> ***Waffenlos*** 1W6
+> ***Krankheitsüberträger*** Zombies können Wundfieber übertragen. Für je volle 10 SP durch sie muss mit 1W20 gewürfelt werden: 1-10 (keine Krankheit), 11-20 (Wundfieber). Ist der Held infiziert, muss eine Krankheitsprobe abgelegt werden.
+> ***Extrem Lichtempfindlich*** Ist der Zombie direktem Sonnenlicht ausgesetzt, erleidet er 2 SP pro KR.
+> ***Meute*** Zombies, die gemeinsam einen Gegner angreifen, erhalten pro Zombie in der Überzahl +1 AT (bis zu einem Maximum von +4 AT).
+
+___
+> ## Thallian
+>*Schwarzmagier*
+> ___
+> - **Rüstungsschutz** 0
+> - **Monsterklasse** 20
+> - **Astralenergie** 30
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 10|   -   |   -  | 20         |
+>___
+> - **Sprachen** menschlich
+> ___
+> ***Taktiken.*** ale zwei Kampfrunden ein Zauber
+> ### Aktionen
+> ***Fulminictus Donnerkeil*** 
+
+___
+> ## Radament
+>*Totenbeschwörer der alten Zeit*
+> ___
+> - **Rüstungsschutz** 0 (nur von Auserwähltem verwundbar)
+> - **Monsterklasse** 35
+> - **Astralenergie** 30
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 22|   12  |   11 | 48         |
+>___
+> - **Sprachen** menschlich
+> ___
+> ***Taktiken.*** ale zwei Kampfrunden ein Zauber
+> ### Aktionen
+> ***Ahnenzauber der Zerstörung / Fulmictus Donnerkeil*** 
+
+<div class='descriptive'>
+##### Der Geist
+Ein für allemal wurde er getötet, für immer und ewig. Habt ihr noch zum Anfang versagt, drehte sich das Blatt zum Ende. Ich mich nun meinem Schicksal geben, lebt wohl und lang! 
+</div>
+
+<div class='descriptive'>
+##### Raum 2
+Staubig, stinkend und trocken sind die alten Becken in denen einst das Wasser gefangen wurde. 
+</div>
+
+## Wieder im Dorf, das Ende
+
+Die Abenteurer erhalten natürlich ihre Unterschrift von **Collgar**, danach wird ein prächtiges Fest stattfinden.
+
+<div class='descriptive'>
+##### Feier
+Es ist ein herrlicher Abend, der Tag war bereits wunderschön, warm,sonnig und trocken. Jeder im Dorf war den ganzen Tag über aufgeregt, wegen den Feierlichkeiten am Abend. Der Sieg über das Böse hier am Finsterkamm. **Kajes** erzählt von seinem Kampf gegen die Untoten, **Der heilige Martinus** indessen unterbricht ihn immer wieder dabei und erzählt davon, wie er die Abenteurer aus der Goblinhöhle befreite. Ein schönes Fest, zu trinken, zu lachen, zu essen. Eine wärme strahlt euch von den Dorfbewohnern entgegen, vielleicht ist es aber auch nur die Hitze des großen Lagerfeuers vor euch. Und seltsame Formen scheinen sich in den Flammen zu zeigen. Fasziniert vom Flammenspiel blickt ihr zufällig beiseite und erkennt die schemenhafte Geisterfigur von **Sharikhazar** wie er friedlich und zufrieden dem Geschehen folgt. 
+"Nicht für alle ist es ein Sieg, einige von uns haben tiefe Wunden erlitten..." spricht **Colgar** leise und deutet zu **Aris** Eltern, die immer noch in Trauer sind, "Doch die Zeit wird die Wunden heilen..." 
+</div>
+
+Am nächsten Tag können die Spieler wieder nach **Greifenfurt* reisen, wo sie die andere Hälfte ihrer Belohnung von **Falk Hangemann** erhalten.
+
+Pro Akt werden die Spieler 100 Abenteuerpunkte erhalten.
 
 ## Die Legende von Radament
 
@@ -1059,18 +1212,6 @@ Die kleine **Ari**, ein kleines unschuldiges Mädchen, das von **Thallian** gopf
 <div class='wide'>
 <img 
   src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/koenigsbrab-1.png?raw=true'
-   />
-<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
-  />
-</div>
-
-\page
-
-# Burg des Königs - 1
-
-<div class='wide'>
-<img 
-  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/burg-des-koenigs-1.png?raw=true'
    />
 <img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
   />
