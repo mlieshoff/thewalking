@@ -533,6 +533,8 @@ Natürlich ist **Der heilige Martinus** Abends auch in der Schenke. Stichpunktar
 
 # Akt II
 
+Dieser Akt handelt von der Begegnung mit dem Königsgeist auf dem Friedhof, der anschließende Vernichtung des Geistes, dem Überfall der Zombies auf das Dorf und der Opferung der kleinen **Ari**.
+
 ## Am nächsten Morgen
 
 Die Spieler werden nun von den Bauern erfahren, das es scheinbar auf dem Friedhof spukt, und zwar heftig. Vermutlich hängt das mit der Quelle zusammen. Alle Bewohner ängstigen sich vor dem Friedhof.
@@ -562,9 +564,6 @@ Wenn die Spieler den Friedhof untersuchen möchten, werden sie nach einiger Zeit
 geisterhafte Erscheiningen haben, wenn die Probe mißlingt.
 Je länger die Spieler hier bleiben, des mehr wird die Probe um 2 erschwert, bis schließlich alle Spieler fir furchtbarsten Geister vor ihren Augen sehen. Dann wird sich der **Königsgeist** vor ihnen offenbaren.
 
-```
-```
-
 <div class='descriptive'>
 ##### Der Königsgeist
 Gerade als ihr euch umdreht, steht etwas großes vor euch. Etwa anderthalb mal so groß, wie euer Krieger, schemenhaft mit einer stämmien Gestalt. Kälte und der Hauch des Todes scheinen von ihm auszuströmen. Er schaut sich seine Arme und Hände an, greift dann böse zu euch schauend nach Schwert. Er zieht ein langes zweihändiges Schwert hervor, während Blitze aus den Wolken zucken.
@@ -577,6 +576,9 @@ Die Spieler müssten jetzt eine schwere **KL-Probe - 6** bestehen, um nicht zu f
 
 **Thalian** empfiehlt den Geist zu vertreiben. Bei seinen Recherchen zum Dolch ist er auf einen Geist gestoßen, der seiner Meinung nach von den Goblins erweckt wurde. Man müsse die Gebeine des Geistes finden. Er ist in alten Aufzeichungen (bruchstückhaft) auf das Hügelgrab gestoßen und kann den Spielern den Weg beschreiben.
 
+\page
+
+
 <div class='descriptive'>
 ##### Thallian liest vor
 Erweckt wird er durch niederen Schamanismus. Der alte König, ein uralter Geist, ein Schlächter der alten Zeit. Geburt einer finsteren Magie, das Kind der Verdammnis. Bestattet von seinern Häschern tief unter der Erde, wo kein Tageslicht jemals scheinen wird. Seine Knochen ihm dienen, ihm Leben zu schenken... Einmal gerufen wird großes Unheil den Finsterkamm ereilen. Seine Armeen wird er unter den niederen Formen sammeln. Mit einem großen Heer wird er den Finsterkamm überollen und in seiner Rache alles Leben unterjochen.
@@ -585,8 +587,6 @@ Erweckt wird er durch niederen Schamanismus. Der alte König, ein uralter Geist,
 </div>
 
 **Thallian** hat die Geschichte so verformt, das er die Personen des Königs und des Schlächters **Radament** geschickt vertauschte.
-
-\page
 
 ## Das Königsgrab
 
@@ -645,7 +645,10 @@ ___
 Ihr betretet einen Raum mit unzähligen Urnen. Größere, kleinere und einige, die bereits der Zeit erlagen und aufgeplatzt aam Boden liegen. Dicke Spinnweben ragen von der Decke herunter und der gesamte hintere teil der Höhle scheint unerkennbar hinter dem Gewebe verborgen zu sein.
 </div>
 
+\page
+
 Wenn die Spieler diesen Raum erkunden möchten, werden sie vielen kleineren Spinnen begegnen, die allerdings harmlos sind. Szenen sollten erzählt werden, in denen ein Charakter den gnazen Rücken voller Spinnen hat.
+
 
 Hinter den Spinnweben finden sie eine unverschlossene Truhe mit drei Heiltränken a W20 und zwei Astraltränken a W20.
 
@@ -655,8 +658,6 @@ Hinter schweren Steintür breitet sich eine kleine Kammer aus, deren Luft besond
 </div>
 
 Falls die Spieler diesen raum betreten, wird folgendes passieren:
-
-\page
 
 <div class='descriptive'>
 ##### betreten von Raum 3 
@@ -716,70 +717,193 @@ Der Raum befindet sich hinter massiven Wand, sprechen die Spieler "Tod", wird si
 Ihr macht einen prunkvoll eingerichteten Raum frei. Es riecht stark vermodert in der Kammer. Alles wurde so aufgebaut, als stündet ihr in einem Thronsaal. Am hinteren Ende der Kammer steht ein großer Sarkophag. Vor ihm, bis zu der Eingangstür wurde ein einst prunkvoller Teppich gelegt, dessen rot jetzt ein düsteres ist. An den Seitenwänden wurden jeweils drei Fackhälter aufgestelt, deren Licht bereits der Zeit zum Opfer gefallen ist. Zum Opfer gefallen sind auch die vergilbten Reliefe an den Wänden, die unbeschreibbar grausame Schlachten und Taten von vier schwer bewaffneten Kriegern zeigen. Die Krieger rühmen sich mit den abgeschlagenen Köpfen ihrer Feinde, die sowohl gräßliche Monster, als auch andere Menschen waren. Was für Barbaren... Die grausamen Bilder brennen sich in Eurer Mark und scheinen je grausamer zu werden, desto näher sie sich dem Sarkophag nähern. Dort bildet das schlimmste aller Reliefe seinen Abschluß. Es zeigt einen Priester, wie er einem kleinen Mädchen den Hals durchschneidet. Der Schlächter der alten Zeit scheint vor ihm zu Knien. Wut steigt in Euch auf, welch böse Macht war hier damals nur am herrschen...
 </div>
 
+\page
+
 Erkärung des Bildes für den Meister. Die Spieler befinden sich in der Kmmer des alten Königs, die Reliefe zeigen seine treuesten Gefährten in ihren teilweise fragwürdigen Kämpfen. Ein Priester opferte die Tochter des alten Königs um damit **Radament** für ihmmer zu bändigen. Deshalb unterwirft sich **Radament** dem Opfer, das ist sozusagen das letzte Siegel.
 
-Der Sarkophag ist schwer zu öffnen **KK-Probe -8**, die Spieler können es zusammen versuchen. Sobald der Deckel sich bewegt, wird er auf den Boden fallen. Die Fackeln werden nacheinander entzündet werden und den Raum in eine blutrote Stimmung färben. 
 
-\page
+Der Sarkophag ist schwer zu öffnen **KK-Probe -8**, die Spieler können es zusammen versuchen. Sobald der Deckel sich bewegt, wird er auf den Boden fallen. Die Fackeln werden nacheinander entzündet werden und den Raum in eine blutrote Stimmung färben. 
 
 <div class='descriptive'>
 ##### Deckel ab
 Kaum schafft ihr es den Deckel zu bewegen, rutscht er euch aus den Händen und schlägt dumpfend auf dem Bodem auf. Der ganze Raum scheint kurz zu vibrieren und hier und da hört man Sand rascheln. Unweigerlich beginnt zu Husten, als euch der modrige Geruch des Sarkophages in die Gescihter schlägt. Das vermoderte Innere scheint irgendwann in der Zeit feucht geworden, jetzt aber wieder getrocknet zu sein. Der Körper in stinkenden staubigen Muhlbinden eingewoben, in den Händen ein altes rostiges Zweihandschwert haltend. Eine brüchige durch die Zeit schäbig aussehende Krone auf dem Kopf des einst versüfften Leichnams scheint sich just in dem Moment, als ihr sie erblicktet, vom Kopf zu rutschen. 
-Dabei entzündet sich eine der Fackeln am hinteren Ende Kamer und verfärbt die Kammer in ein dunkles blutrotes Ambiente. Ihr hört Schlachtenlärm und Todeschreie. Es scheint als seien die Reliefe zum Leben erwacht. Luft und Staub innerhalb des Sarkophages scheinen von dem Leichnahm angesaugt zu werden und als der dunkle Priester in dem Relief vor Euch sein grausames Werk vollendet und der Schrei eines kleinen Mädchen zu hören ist, entzündet sich die zweite Fackel und die Szenerie wird wieder von Schwerterlärm und Schmerzensschreien geprägt. Wieder vibriert der Raum, diesmal stärker als würde die gesamte Grabkammer wackeln. Deutlich mehr Sand als vorher ist raschelnd auf den Boden niederregnen zu hören.
+Dabei entzündet sich eine der Fackeln am hinteren Ende Kamer und verfärbt die Kammer in ein dunkles blutrotes Ambiente. Ihr hört Schlachtenlärm und Todeschreie. Es scheint als seien die Reliefe zum Leben erwacht. Luft und Staub innerhalb des Sarkophages scheinen von dem Leichnahm angesaugt zu werden und als der dunkle Priester in dem Relief vor Euch sein grausames Werk vollendet und der Schrei eines kleinen Mädchen zu hören ist, entzündet sich die zweite Fackel und die Szenerie wird wieder von Schwerterlärm und Schmerzensschreien geprägt. Wieder vibriert der Raum, diesmal stärker, so als würde die gesamte Grabkammer wackeln. Deutlich mehr Sand als vorher ist raschelnd auf den Boden niederregnen zu hören.
 </div>
 
-Die Spieler hier auf den Tod warten (pro Spielrunde wird eine sich eine Fackel entzünden). Brennen alle wird die ganze Grabkammer binnen weniger Speilrunden einstürzen, den Staub entzünden und damit die Königsknochen und wohl vermutlich auch die Spieler entzünden.
+Die Spieler können hier auf den Tod warten (pro Spielrunde wird eine sich eine Fackel entzünden). Brennen alle Fackeln wird die ganze Grabkammer binnen weniger Spielrunden einstürzen, den Staub entzünden und damit die Königsknochen und wohl vermutlich auch die Spieler entzünden.
 
 Die Spieler sollten sich beeilen um die Knochen zu verbrennen, sobald der Leichnahm brennt, entzündet sich keine Fackel mehr. Im Gegenteil, sie werden langsame wieder erlöschen.
 
+```
+```
+
 <div class='descriptive'>
 ##### Königsgeist
-Ihr verdammten Narren! Verflucht seid ihr Würmer! Ihr wisst nicht, was ihr getan habt...
+Blitzschnell materialisiert sich vor (Spieler der gezündelt hat), der große Geist vom Friedhof. Er holt gerade mit seinem riesigen Schwert aus als Flammen von seinen Beinen her beginnen seinen Körper zu verschlingen. Schmerzerfüllt krümmt er sich brennend vor Euch und sinkt auf die Knie, während sein Schwert zu Boden fällt.
+"Ihr verdammten Narren! Verflucht seid ihr Würmer! Wisst ihr denn nicht, was ihr gaten habt?"
+Mit diesen Worten verbrennt der Geist vor Euren Augen zu Staub.
+</div>
+
+## Das Erwachen der Toten
+
+Schon als die Spieler in die Nähe des Friedhofs geraten, sollten sie einer kleineren Horder Untoter über den Weg laufen, die sich gerade ihren Weg zum Dorf bahnen. Es sind die reste einer weitaus größeren Horde.
+
+<div class='descriptive'>
+##### In der Nähe des Friedhofs
+Als ihr die Straße erreicht, kann man im Hintergrund des beginnenden Waldes den Friedhof erkennen. Unzählige Fußspuren scheinen vor kürzester Zeit die Strasse passiert zu haben, sie gehen in Richtung des Dorfes. Hier und da liegen verweste Körperteile auf der Straße herum. Vom weiter entfernten Dorf her sind Schreie zu hören, Feuer und Rauchschwaden flimmern über den Horizont. Panik breitet sich in Euch aus... und in einer Senke direkt neben Euch hört ihr Fressgeräusche. Ein schweres Keuchen, jämmerliche Atemversuche und das bösartige Knurren von einigen Gestalten, die von ihrer Beute, einem einst prächtigen Hirsch ablassen und sich Euch nähern.
+</div>
+
+Die Spieler werden von vier Zombies angegriffen, die die Reste der Horder darstellen, die zum Dorf unterwegs waren.
+
+\page
+
+___
+> ## Zombie
+>*Streuner*
+> ___
+> - **Rüstungsschutz** 0
+> - **Monsterklasse** ???
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 20|   8   |   -  | 16         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Biß*** 1W6
+> ***Waffenlos*** 1W6
+> ***Krankheitsüberträger*** Zombies können Wundfieber übertragen. Für je volle 10 SP durch sie muss mit 1W20 gewürfelt werden: 1-10 (keine Krankheit), 11-20 (Wundfieber). Ist der Held infiziert, muss eine Krankheitsprobe abgelegt werden.
+> ***Extrem Lichtempfindlich*** Ist der Zombie direktem Sonnenlicht ausgesetzt, erleidet er 2 SP pro KR.
+> ***Meute*** Zombies, die gemeinsam einen Gegner angreifen, erhalten pro Zombie in der Überzahl +1 AT (bis zu einem Maximum von +4 AT).
+
+Falls die Spieler sich den Friedhof wieder einmal ansehen wollen, werden sie festelen, daß aus den meisten Gräber Untote gekrochen sind. uf dem Friedhof selbst werden sie noch 3-4 Zombies begegnen.
+
+## Die Rückkehr zum Dorf
+
+<div class='descriptive'>
+##### Der Kampf im Dorf
+Es herrscht heilloses durcheinander. Ein großer Kampf um das nackte Überleben ist entbrannt. Zombies an den Türen und Fenster der Häuser, auf den Straßen, schier überall scheinen sie ihrem Haß auf das Lebendige freien Lauf zu lassen. Während sich viele scheinbar in den Häusern verbarrikadiert haben, kämpfen andere einen scheinbar hoffnungslosen Kampf. Mit Fackeln entzünden andere die leblosen Gestalten, die daraufhin als lebendige Fackeln in den Kampf eingreifen, bevor durch die Mistgabeln anderer aufgespeißt werden.
+An der Schenke schließlich erkennt ihr die Wirtin und den Wirt. Während die Wirtin  mit einem Feueresien Zombie für Zombie den Kopf einschlägt, ringt der Wirt mit zwei dieser abscheulichen Kreaturen. Gerade als eine von ihnen in den Hals beißen will, sticht Kajes ihm einen langen Dolch in das Genick. Willenlos bricht die Gestalt zusammen während der seinen anderen Gegner zu Boden ringt und dann mit einer schweren Pfanne den Kopf einschlägt.
+"Wollt ihr denn ewig leben?" ruft die Wirtin zu Euch.
+</div>
+
+Es gibt zwei Punkte im Dorf zu bereinigen. Der erste ist hier an der Schenke, wo die Spieler gegen 8 Zombies kömpfen sollten. Die Dorfbewohner bekämpfen ebenfalls andere Zombies. 
+
+___
+> ## Zombie
+>*Streuner*
+> ___
+> - **Rüstungsschutz** 0
+> - **Monsterklasse** ???
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 20|   8   |   -  | 16         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Biß*** 1W6
+> ***Waffenlos*** 1W6
+> ***Krankheitsüberträger*** Zombies können Wundfieber übertragen. Für je volle 10 SP durch sie muss mit 1W20 gewürfelt werden: 1-10 (keine Krankheit), 11-20 (Wundfieber). Ist der Held infiziert, muss eine Krankheitsprobe abgelegt werden.
+> ***Extrem Lichtempfindlich*** Ist der Zombie direktem Sonnenlicht ausgesetzt, erleidet er 2 SP pro KR.
+> ***Meute*** Zombies, die gemeinsam einen Gegner angreifen, erhalten pro Zombie in der Überzahl +1 AT (bis zu einem Maximum von +4 AT).
+
+<div class='descriptive'>
+##### Aris Haus
+"Rüber dort hinten hin!" ruft die Wirtin und deutet zu dem Haus in dem die Familie von Ari wohnt. Aris Vater und ein paar andere Bauern kämpfen dort auf der Strasse mit den Untoten.
 </div>
 
 \page
 
+___
+> ## Zombie
+>*Streuner*
+> ___
+> - **Rüstungsschutz** 0
+> - **Monsterklasse** ???
+>___
+>|Mut|Attacke|Parade|Lebenspunkte|
+>|:-:|:-----:|:----:|:----------:|
+>| 20|   8   |   -  | 16         |
+>___
+> - **Sprachen** keine
+> ___
+> ***Taktiken.*** keine
+> ### Aktionen
+> ***Biß*** 1W6
+> ***Waffenlos*** 1W6
+> ***Krankheitsüberträger*** Zombies können Wundfieber übertragen. Für je volle 10 SP durch sie muss mit 1W20 gewürfelt werden: 1-10 (keine Krankheit), 11-20 (Wundfieber). Ist der Held infiziert, muss eine Krankheitsprobe abgelegt werden.
+> ***Extrem Lichtempfindlich*** Ist der Zombie direktem Sonnenlicht ausgesetzt, erleidet er 2 SP pro KR.
+> ***Meute*** Zombies, die gemeinsam einen Gegner angreifen, erhalten pro Zombie in der Überzahl +1 AT (bis zu einem Maximum von +4 AT).
 
-# Akt III
+Die Spieler sollten erneut gegen 6 Zombies kämpfen.
 
-## Das Erwachen der Toten
+## Die Ruhe nach dem Sturm
+
+<div class='descriptive'>
+##### Die Wirtin
+Ihr seit gerade rechtzeitig gekommen, naja, ein wenig früher wäre besser gewesen. Sie kamen überraschend... Wir werden uns jetzt erstmal sortieren und sehen... Es gibt viele Verluste und Verwundete...
+</div>
+
+<div class='descriptive'>
+##### Verzweifelter Dorfbewohner
+Wie konnte da nur passieren? Was ist da geschehen?
+</div>
+
+<div class='descriptive'>
+##### Betrunkener Bauer
+Ich habe Thallian gesehen, er hatte die kleine Ari unterm Arm und ist im Getümmel verschwunden. Dort runter ist er, nach Alt-Norderbrunn!
+</div>
+
+Aris Eltern sind natürlich entsetzt. Ihr Vater will sofort losstürmen. Die Spieler könnten ihn begleiten. Es dauert ungefähr ein halbes Stündchen bis nach Alt-Norderbrunn, über einen verlassenen Waldpfad erreicht man die Ruinenen eines ausgebrannten Dorfes mit ca. 10 Häusern.
+
+Durch Spurensuche (**KL + 2**) kann man die frischen Fußspuren einer Person erkennen, die direkt zu einem ausgrebrannten Haus führen, das allerdings noch ein teilweise erhaltenes Dach besitzt.
 
 ## Der Unterschlupf des Dorfmagiers
 
 <div class='descriptive'>
 ##### Das Haus: Die Falltür
-Ihr betretet ein von außen unscheinbar aber zerfallen aussehendes Haus. Eine alte Wohnstube und eine kleine vor Jahren erloschene Feuerstelle lassen erkennen, daß es bereits seit Jahren leer steht.Die Möbel sind verkommen, die Fensterläden klappern und der Wind zieht ein. Etwa in der Mitte der Stube kann man einen Teppich erkennen, der zur Seite geschoben wurde und eine hölzerne geschlossene Falltür verdeckte. Durch die Ritzen scheint Licht zu scheinen. 
+Ihr betretet ein von außen unscheinbar aber zerfallen und ausgebrannt aussehendes Haus. Eine alte Wohnstube und eine kleine vor Jahren erloschene Feuerstelle lassen erkennen, daß es bereits seit Jahren leer steht. Die Möbel sind verkommen, die Fensterläden klappern und der Wind zieht ein. Etwa in der Mitte der Stube kann man einen Teppich erkennen, der zur Seite geschoben wurde und eine hölzerne geschlossene Falltür verdeckte. Durch die Ritzen scheint Licht zu scheinen. 
 </div>
+
+Der Falltür läßt sich ohne Probleme öffnen.
 
 <div class='descriptive'>
 ##### Das Haus: Die Kellertreppe
-Langsam schreitet ihr die Kellertreppe herunten. Der Staub vieler Jahre liegt auf den Stufen. Fackelschein flimmert den schmalen Gang entlang.
+Langsam schreitet ihr die Kellertreppe herunter. Der Staub vieler Jahre liegt auf den Stufen. Fackelschein flimmert einen schmalen etwas drei Meter langen Gang entlang.
 </div>
 
-Wenn die Spieler den Keller betreten, werden sie auf ein Anti-Magie Feld stoßen, was alle aktiven Zaubersprüche sofort beendet.
+Wenn die Spieler den Keller betreten, werden sie am Ende des Ganges auf ein Anti-Magie Feld stoßen, welches alle aktiven Zaubersprüche sofort beendet.
 
 <div class='descriptive'>
 ##### Das Haus: Die Zeremonie
-Ihr betretet einen länglichen Kellerraum, der durch viele Fackelständer erhellt wird. Ein Arbeitstisch mit einer Menge an Büchern und Schriftrollen steht an der linken Seite. Am Ende des Raumes erkennt ihr einen Opfertisch. Ari, das kleine Mädchen aus dem Dorf liegt bewußtlos auf ihm. Hinter ihr steht ein wahnsinnig aussehender Thallian, der mit einem gezielten Schnitt "Der Schmach" dem kleinen Leben ein Ende schenkt. Die Schmach glüht kurz auf, die Fackellichter strahlen gleißend hell, heller als die Sonne und geblendet hört ihr das Lachen des Schwarzmagiers: "Ihr kommt zu spät!".
-Ihr hört ein dreimaliges Klopfen und plötzlich ist der Spuk vorbei. Die Fackeln leuchten wieder normal, Thallian ist fort. "Nein, nein! Das kann nicht sein, Ari *schreit* *weint*" ruft ein menschliches Etwas das in einen metallenen Käfig eingesperrt ist der in der Ecke neben Euch steht.
+Ihr betretet einen länglichen Kellerraum, der durch viele Fackelständer erhellt wird. Ein Arbeitstisch mit einer Menge an Büchern und Schriftrollen steht an der linken Seite. Am Ende des Raumes erkennt ihr einen Opfertisch. Ari, das kleine Mädchen aus dem Dorf liegt bewußtlos auf ihm. Hinter ihr steht ein wahnsinnig aussehender Thallian, der mit einem gezielten Schnitt "Der Schmach" dem kleinen Leben ein Ende schenkt. Die Schmach glüht kurz auf, die Fackellichter strahlen gleißend hell, heller als die Sonne es jemals tat und geblendet hört ihr das Lachen des Magiers: "Ihr kommt zu spät!".
+Ihr hört ein dreimaliges Klopfen und plötzlich ist der Spuk vorbei. Die Fackeln leuchten wieder normal, Thallian ist fort. 
+"Nein, nein! Das kann nicht sein, Ari, Ari!" ruft ein menschliches Etwas, das in einen metallenen Käfig eingesperrt ist, der in der Ecke neben Euch steht.
 </div>
 
-Der Mann in dem Käfig ist Collgar. Ari ist tot und Thallian ist auf dem Weg in die Katakomben, um seinen Großmeister zu begrüßen.
+Der Mann in dem Käfig ist ein ziemlich lädierter und geschwächter **Collgar**. **Ari** ist tot und **Thallian** ist auf dem Weg in die Katakomben, um seinen Großmeister zu begrüßen.
+
+\page
 
 <div class='descriptive'>
 ##### Colgar
-Danke das ihr mich befreit habt. Dieser verfluchte Bastard hat Ari getötet. Er hat mich vor einigen entführt und hier engesperrt. Er hat schlimme Dinge getan, doch ich habe so wie möglich versucht zu schweigen. Wir müssen ihn stoppen.
+Danke das ihr mich befreit habt. Dieser verfluchte Bastard hat Ari getötet. Er hat mich vor einiger Zeit entführt und hier engesperrt, ich weiß nicht, wie lange ich schon hier bin. Ich habe jegliches Zeitgefühl verloren. Er hat mir schlimme Dinge angetan, doch ich habe so weit es mir möglich war versucht zu widerstehen. Dann, ich hatte die Schmerzen nicht mehr ausgehalten und diese Dämonen um mich herum. Da hatte ich ihm alles erzählt, was ich versucht habe zu tun, um dem Dorf zu helfen, ich habe ihm von meiner Bitte an Sharikhazar erzählt... Wir müssen Thallian stoppen.
 </div>
 
 <div class='descriptive'>
 ##### Colgar über Thallian
-Er war einer von uns. Er ist in diesem Dorf geboren, wir waren wie Brüder. Nach dem Brand von Alt-Norderbrunn hatte er sich verändert. Er ging fort um sich seinen Studien zu widmen. Er war sehr lange weg, dann kam er vor ein paar Monaten plötzlich zurück, so als ob keine Zeit vergangen wäre. Dabei waren es bestimmt fast 20 Jahre. Ich weis nicht was mit ihm passiert ist, doch es scheint nichts Gutes mehr in ihm zu sein.
+Er war einer von uns. Er ist in diesem Dorf geboren, wir waren wie Brüder. Nach dem Brand von Alt-Norderbrunn, vor gut zwanzig Jahren, hatte er sich verändert. Er ging fort um sich seinen Studien zu widmen. Er war sehr lange weg, dann kam er vor ein paar Monaten plötzlich zurück, so als ob die Zeit nicht vergangen wäre. Dabei waren es mindestens 20 Jahre. Ich weis nicht was mit ihm passiert ist, doch es scheint nichts Gutes mehr in ihm zu sein.
 </div>
 
 <div class='descriptive'>
 ##### Colgar über die Quelle
-Ich habe die Quelle ausgiebig untersucht. Thalian hatte mich immer dafür belächelt. Als ich erkannte, daß seine Kräfte nicht ausreichen würden bat ich Sharikhazar um Hilfe. Ich schenkte ihm als Freundschaftszeichen meinen Ring. Die Goblins sind an sich gute Kreaturen.
-Sharikhazar versprach zu helfen. Er wüsste alte Zauber, um das Wasser zu reinigen. Er warnte mich, eine feindselige Kreatur sei auf dem Weg über den Finsterkamm, auf der Suche nach dem, was die Quelle vergiftete. Außerdem sah er in seinen Visionen, wie Menschen versuchen würden, ihn von dem Reinigungszauber abzuhalten, da sie selbst das wollten, das die Quelle entweihte. Es erschrak mich, als er mir erzählte, wie er sterben würde. Ein Streuner würde ihn von hinten erstechen.
+Ich habe die Quelle ausgiebig untersucht. Thalian hatte mich immer dafür belächelt. Als ich erkannte, daß seine Kräfte nicht ausreichen würden, bat ich heimlich Sharikhazar um Hilfe. Die Menschen hier häten meine Kontaktaufnahme zu den Goblins nicht verstanden. Dabei sind sie wie wir, nur Vorurteile und gegenseitiges Mißtrauen führt zu andauernden Auseinandersetzungen. Es gibt viele Gute unter ihnen. Wir leben seit Jahren in ihrer Nachbarschaft und niemals ist etws geschehen. Ich schenkte ihm als Zeichen der Freundschaft meinen Ring. 
+Sharikhazar versprach zu helfen. Er wüsste alte Zauber, um das Wasser zu reinigen. Er warnte mich davor, eine feindselige Kreatur sei auf dem Weg über den Finsterkamm, auf der Suche nach dem, was die Quelle vergiftete. Seine eigene Position sei in Gefahr. Außerdem sah er in seinen Visionen, wie Menschen versuchen würden, ihn von dem Reinigungszauber abhalten zu wollen, da sie selbst das wollten, das die Quelle entweihte. Es erschrak mich, als er mir erzählte, wie er sterben würde. Ein Streuner würde ihn in seinem eigenen Lager von hinten erstechen.
 </div>
 
 <div class='descriptive'>
@@ -787,43 +911,99 @@ Sharikhazar versprach zu helfen. Er wüsste alte Zauber, um das Wasser zu reinig
 Mit den Schriftrollen, die mein Meister mir schickte, kann ich endlich die alten Schriften entschlüsseln. Ich werde das Ritual sorgfältig vorbereiten. Nichts darf schief gehen, wenn ich den Geisterfluß in unsere Welt umleiten will. Ich, Thallian, werde das erste Siegel brechen.
 </div>
 
-\page
-
+```
+```
 
 <div class='descriptive'>
 ##### Tagebuch Thallians: Vor einem Monat
-Es war harte Arbeit aber ich habe es geschafft. Ich konnte den Geisterfluß öffnen und das Lebenselixir des einzigartigen und wahren Radaments in unsere Welt umleiten. Es wird einige Zeit dauern, bis das Elixir vollständig in unsere Welt eingetreten ist. Die Quelle fließt langsam und behutsam und verwandelt sich immer mehr in den fantastischen Lebensaft. Es ist herrlich mit anzusehen wie es immer schwärzer wird und alles Leben verzehrt, das es berührt. 
-Seitdem mein Meister mir die Schriftrolle per Wagenzug schickte, fallen Goblins über die Lieferungen her. Diese verfluchten Kreaturen haben den Dolch gestohlen. Ich brauche ihn unbedingt wieder. Ich habe ein ungutes Gefühl, so als würde noch eine andere Macht am werken sein.  
-Dieser verdammte Wechselbalg Kajes. Hochlogisch kombiniert er die Dinge die geschehen. Langsam wird er zur Last, er nervt mich. Zum Glück halten die meisten ihn für eine Art Belzebub. Nur Colgar nicht. Kajes kann wirklich zur Gefahr werden, ich sollte ihn aus dem Spiel nehmen. 
+Es war harte Arbeit aber ich habe es endlich geschafft. Ich konnte den Geisterfluß öffnen und das Lebenselixir des einzigartigen und wahren Meisters unter den Totenbeschwörern Radaments, in unsere Welt umleiten. Es wird einige Zeit dauern, bis das Elixir vollständig in unsere Welt übertragen worden ist. Die Quelle fließt langsam und behutsam und verwandelt sich immer mehr in einen fantastischen Lebensaft. Es ist herrlich mit anzusehen wie es immer schwärzer wird und alles Leben verzehrt, das es berührt. Sein Hunger ist schier unersättlich.
+Seitdem mein Meister mir die Schriftrollen per Wagenzug schickte, fallen Goblins über die Lieferungen her. Diese verfluchten kleinen Kreaturen haben auch den Dolch gestohlen, den mein Meister mir entsannte. Ich brauche ihn unbedingt wieder. Ich habe ein ungutes Gefühl, so als würde noch eine andere Macht beteiligt sein.  
+Dieser verdammte Wechselbalg Kajes. Hochlogisch kombiniert er die Dinge, die geschehen. Langsam wird er zur Last, er nervt mich. Zum Glück halten die meisten ihn für eine Art Belzebub. Nur Collgar nicht. Kajes kann wirklich zur Gefahr werden, ich sollte ihn aus dem Spiel nehmen. 
 </div>
 
 <div class='descriptive'>
 ##### Tagebuch Thallians: Vor einer Woche
-Collgar wird langsame nervig. Immer wieder redet er von der Quelle. Sie sei verdorben und man müsse sie reinigen. Dieser verdammte Narr. Erkennt er denn nicht die Herrlichkeit die nun von ihr ausgeht? Er hat mir tatsächlich erzählt, daß er die Goblins beten will, die Quelle zu reinigen. Das muss ich unbedingt verhindern. Ich brauch mehr Zeit. Aber ich spüre auch, das die Lebenskraft Radaments bald vollständig in unsere Welt übertragen wurde.
+Collgar wird langsam nervig. Immer wieder redet er von der Quelle. Sie sei verdorben und man müsse sie reinigen. Dieser verdammte Narr. Erkennt er denn nicht die Herrlichkeit die nun von ihr ausgeht? Er hat mir tatsächlich erzählt, daß er versuchen will, die Quelle zu reinigen. Das muss ich unbedingt verhindern, er darf sich ihr nicht mehr nähern. Ich brauche mehr Zeit. Aber ich spüre auch, das die Lebenskraft Radaments bald vollständig in unsere Welt übertragen wurde.
 </div>
 
 <div class='descriptive'>
 ##### Tagebuch Thallians: Vor einer Woche
-Ich hatte ihn gewarnt. Nun muss er mit den Konsequenzen leben. Ich habe Collgar am Norderbrunn überwältigen können. Seitdem halte ich ihn gefangen. Er kann mir ein gutes Druckmittel sein, mal sehen wofür ich ihn noch gebrauchen kann.
+Ich hatte ihn gewarnt. Nun muss er mit den Konsequenzen leben. Ich habe Collgar am Norderbrunn überwältigen können. Seitdem halte ich ihn gefangen. Er kann mir ein gutes Druckmittel sein, mal sehen wofür ich ihn noch gebrauchen kann. Ich muss unbedingt von ihm erfahren, was er bezüglich der Quelle unternahm. 
+</div>
+
+\page
+
+<div class='descriptive'>
+##### Tagebuch Thallians: Vor ein paar Tagen
+Mit dem letzten Wagenzug ist eine Gruppe Abenteurer angekommen. Sie kommen gerade rechtzeitig. Hat mir Colgar doch unter Folter erzählt, er habe den Goblinmagier Sharikazhar beauftragt die Quelle zu reinigen. Mit ihrer verdammten Goblinmagie könnten sie auch schaffen, zumindest könnten sie die Übertragung verzögern. Dabei ist der Prozeß so gut wie abgeschlossen. Sharikazhars Reinigungsversuche müssen unbedingt aufgehalten werden. Vielleicht könnten mir die Abenteurer die Aufgabe abnehmen und sich um die Goblins kümmern. Ich werde etwas Zwietracht sähen. Sie scheinen leicht beeinflußbar zu sein. Gut daß sie auf auf die Unterschrift Collgars warten müssen, die über-bürokratische paranoide Hangemann, kaum werden seine Wagenzüge überfallen, verdächtigt er seine eigenen Angestellten.
 </div>
 
 <div class='descriptive'>
 ##### Tagebuch Thallians: Vor ein paar Tagen
-Mit dem letzten Wagenzug ist eine Gruppe Abenteurer angekommen. Sie kommen gerade rechtzeitig. Hat mir Colgar doch unter Folter erzählt er habe den Goblinmagier Sharikazhar beauftragt die Quele zu reinigen. Mit ihrer verdammten Goblinmagie könnten sie auch schaffen. Dabei ist der Prozeß so gut wie abgeschlossen. Vielleicht könnten mir die Abenteurer die Aufgabe abnehmen und sich um die Goblins kümmern. 
-</div>
-
-```
-```
-
-<div class='descriptive'>
-##### Tagebuch Thallians: Vor ein paar Tagen
-Der verfluchte Goblinmagier ist tot. Gerade rechtzeitig, wie die Abenteurer es mir erzählten. Nebenbei haben sie noch einen Oger getötet. Außerdem haben sie einen Leichnahm gefunden und halten ihn für Colgar. Ich glaube es war der Streuner, denich beauftragte nach dem Dolch zu suchen. Und sie haben eben diesen Dolch gefunden, sehr gut. Es wäre nicht gut, wenn sie nun wieder aufbrechen würden. Ich brauche sie noch für den Wächtergeist, dann werden sie mir überdrüssig. Sie langweilen mich bereits. Das mit dem Oger ist merkwürdig. Hoffentlich waren sie da nicht etwas voreilig. Wenn die Goblins die Wagenladungen überfallen haben, dann im Auftrag von Sharikazhar. Doch was wollte der Oger hier? Ich denke nicht das er eingeladen war. Wahrscheinlich ist noch eine weitere Macht mit im Spiel, etwas hinter dem Finsterkamm. Ich muss das unbedingt meinem Meister mitteilen.
+Der verfluchte Goblinmagier ist tot. Gerade rechtzeitig, wie die Abenteurer es mir erzählten, sozusagen in-flagrant-i erwischt. Nebenbei haben sie noch einen Oger getötet, wenn sie so weiter machen, können sie den ganzen Finsterkamm reinigen. Außerdem haben sie einen Leichnahm gefunden und halten ihn für Colgar. Ich glaube es war der arme Streuner, den ich beauftragte nach dem Dolch zu suchen, ich dachte gleich, daß er versagen würde. 
+Und sie haben eben diesen Dolch gefunden, es läuft sehr gut. Es wäre nicht schön, wenn sie nun wieder aufbrechen würden. Ich brauche sie noch für den Wächtergeist, dann werden sie mir überdrüssig. Sie langweilen mich bereits, doch ist ihr Verhalten manchmal recht amüsant. 
+Das mit dem Oger ist merkwürdig. Hoffentlich waren sie da nicht etwas voreilig. Wenn die Goblins die Wagenladungen überfallen haben, dann im Auftrag von Sharikazhar. Doch was wollte der Oger hier? Ich denke nicht das er eingeladen war. Wahrscheinlich ist noch eine weitere Macht mit im Spiel, etwas hinter dem Finsterkamm. Ich muss das unbedingt meinem Meister mitteilen.
 </div>
 
 <div class='descriptive'>
 ##### Tagebuch Thallians: Gestern
-Bald ist der große Tag. Der Wächter ist bereits erweckt. Ich werde die Abenteurer zum Hügelgrab schicken, wo sie den Geist bannen können und dann hoffentlich dort verenden werden. Wenn sie das Grab überleben sollten, so werden die Untoten sich um sie kümmern. Dann wird das zweite Siegel endlich gebrochen sein. 
+Bald ist der große Tag. Der Wächter ist bereits erweckt. Ich werde die Abenteurer zum Hügelgrab schicken, wo sie den Geist bannen können und dann hoffentlich dort verenden werden. Wenn sie trotz meiner Erwartungen zurückkehren sollten, so werden die Untoten sich um sie kümmern. Schade, daß ich mir ihr Ende nicht mehr ansehen kann, ich würde mich zu gerne an ihrem leidvollen Tod ergötzen. Die Vorstellung erregt mich, ihnen den Übergang von Leben zum Tode gar selbst einzuschenken, doch ich muss vorsichtig sein, ich muss mich auf das wesentliches konzentrieren. Ich habe viel zu tun, meine Abreise muss eingeleitet werden. Dann werde ich das dritte und letzte Siegel endlich brechen. 
 </div>
+
+```
+```
+
+<div class='descriptive'>
+##### Die Legende von Radament
+Einst, vor tausenden von Jahren, herrschte Fürst **Durenald Konrad Greifax** in der **Lagergard** über Fürstentum und die Stadt **Kaltenfeld**. Zu dieser Zeit herrschte Krieg mit den niederen Kreaturen die sich ihren Weg über den **Finsterkamm** suchten. 
+Doch **Durenald**, seine vier engsten Vertrauten, die Ratskrieger **Rondrborn Regolan von Binsböckel**, **Drachwidda Ucurium von Sturmfels**, **Wolfwin Lucardus von Dunkelstein** und **Ritter Wildwerth Cordovan Bregelsaum** und ein paar Kämpfer der Miliz stellten sich dem Bösen immer wieder und verhinderten den Durchbruch an dieser Stelle des **Finsterkamms**.
+Niemand hätte damals damit gerechnet, das ausgerechnet aus dem Landesinneren, dem Süden der Reiche eine Kreatur geschaffen wurde, die den Vormarsch Bösen in **Kaltenfels** vorbereiten sollte. 
+Erschaffen als Kind der Verdammnis, die Kreuzung schwarzer Magie und eines Menschen, gebrütet im Körper einer toten Hure. Sein Erzeuger nannte das Balg **Radament** und lehrte es die Geheimnisse der Totenbeschwörung. Schon bald tötete das schnell wachsende Balg seinen Erzeuger und widmete sich den bösen Stimmen in seinem Inneren. Sein Ziel war **Kaltenfels**.
+Es entbrannte eine große Schlacht in **Kaltenfels**. Unzähle Orks und Trolle marschierten über den **Finsterkamm**, überrannten die **Lagergard**, während Horden von Untoten, angeführt von **Radament** sich in der Stadt **Kaltenfels** ausbreiteten. Unvorstellbares Chaos breitete sich aus, viele Seelen starben während dieser Zeit, die Stadt wurde dabei vollständig zerstört. 
+Doch mit der Hilfe der Götter trotzten **Durenald** und sein Rat der Belagerung und schafften es dem Feind mit einer kleinen Armee in einer schier endlosen Schlacht einen empfindlichen Treffer zu verursachen, von dem er sich nicht mehr erholen sollte.
+Es gelang ihnen **Radament** and der **Feenquelle** zu stellen. **Durenald** richtete seinen Feind mit dem Schwert. **Radamant** schien zu sterben, sein schwarzes Blut suchte sich seinen Weg über den Waldboden in das Quellwasser und Schlangen kamen aus dem Unterholz um sich in dem Wasser zu laben.
+Nachdem die Priester große Zauber sprachen, traf sie eine schreckliche Vorahnung. So einfach sei das Böse nicht zu verdammen. Um das Böse vollständig zu bannen erfordere es ein hohes Opfer und die Schmach desjenigen, der es ausführe.
+So opferte **Durenald** selbst sein einziges Kind, seine Tochter **Brin**. Doch der Priester Zufriedenheit war immer noch nicht genug getan. **Radament** selbst sei nun gebunden, doch dessen Armeen seien es nicht. Jemand müsse die Toten in Schach halten und zwar dann, wenn sie entstehen. 
+Und so, als letztes Opfer, dem Opfer seiner selbst, beendete **Durenald** sein Leben mit dem Dolch, mit dem er zuvor sein einziges Kind opferte. Die Priester erschuffen einen starken Wächtergeist aus ihm, einem Geisterkämpfer, der den unzufriedenen Seelen einhalt gebührte.
+In einem letzten Ritual, wurden die sterblichen Gebeine des Fürsten und seiner Ratsgefährten im Hügelgrab **Tommelich** beigesetzt, danach nahm sich die Zeit des Vergessens **Kaltenfels** an. Das Geschehene wurde zu Geschichten, Geschichten wurden zu Legenden.
+</div>
+
+\page
+
+<div class='descriptive'>
+##### Meister an Thallian (Notizen decodierter Abschrift)
+Wehrter Thallian, 
+ihr mein erster Schüler, steht vor einem großen Durchbruch. Ich entsende Euch die Erkenntnisse meiner bisherigen Arbeit. Es beschreibt ein uraltes Ritual, um einen Geisterfluß zu öffnen, führt es aus, so wird es nicht zu Eurem Ungunsten sein. Handelt im Verborgenen wartet weitere Anweisungen ab.
+P.
+</div>
+
+<div class='descriptive'>
+##### Meister an Thallian (Notizen decodierter Abschrift)
+Wehrter Thallian, 
+ich entsende das Werkzeug, "Die Schmach". Beeilt Euch mit Euren Studien zu den Schriften, damit ihr erlernt wie man es einsetzt. Die anderen wünschen ein perfektes Ritual, also enttäuscht mich nicht.
+P.
+</div>
+
+**Collgar** selbst kann sich an viele Selbstgespräche **Thallians** erinnern. Es ging dabei um die alte Burgruine und die Stadtruine im Wald. Die Burgruine sei eine Schwachstelle. 
+
+## Zurück im Dorf
+
+Deprimiert kehrt die Gruppe ins Dorf zurück. Dort erfahren sie, daß man noch einige Untote vernichtet hat. Zwei ältere Bewohner vor getötet, ein paar andere verletzt, aber wohl nicht gebissen. Gegen Morgen wird man die beiden zusammen mit **Ari** und den Überresten des Streuners, in der Nähe des Dorfes bestatten.
+
+## Die Beerdigung
+
+<div class='descriptive'>
+##### Die Beerdigung
+Ihr steht an einer kleinen Lichtung in der Nähe des Dorfes. Drei große und ein kleines Grab wurden ausgehoben, in ihnen die Verstorbenen des letzten tages anständig zu ihrer letzten Reise aufbewahrt. Eine kleine Menge ist erschienen und steht im Halbkrei an den Gräbern. Collgar gestützt auf einem Stock hält eine traurige Ansprache, viele Personen weinen, können das Geschehene nicht verstehen. Collgar ruft zu einigen Minuten des Schweigens auf.
+</div>
+
+Der Spielleiter sollte zu diesem traurigen Ereigniss einige Minuten der Ruhe einfordern und das Zwergenlied der Hobbits spielen.
+
+\page
+
+# Akt III
+
+An diesem Punkt beginnt der finale Akt. Der Akt handelt vom Wiederbeleben des Königsgeistes und dem anschließenden Showdown in denKatakomben der Ruinen.
 
 \page
 
@@ -839,14 +1019,14 @@ Bald ist der große Tag. Der Wächter ist bereits erweckt. Ich werde die Abenteu
 
 ## Das Ende
 
-## Die Siegel
+## Die Legende von Radament
 
 ### Das erste Siegel 
 
-**Thallian** hat einen dunklen Großmeister wahrscheinlich in **Greifenfurt** vor vielen Jahren kennengelernt. Dieser schickte ihm die schwarze Zauberformel um das Quellwasser in das Blut des **Radaments** zu verwandeln. Dadurch wurde erste Siegel gebrochen und der Königsgeist erweckt. Das Gegenstück dazu war die Enthauptung des Schlächters durch den alten König früher an der Quelle.
+**Thallian** hat einen dunklen Großmeister wahrscheinlich in **Greifenfurt** vor vielen Jahren kennengelernt. Dieser schickte ihm die schwarze Zauberformel um das Quellwasser in das Blut des **Radaments** zu verwandeln undn den Dolch **Die Schmach**. Dadurch wurde das erste Siegel gebrochen und der Königsgeist erweckt. Das Gegenstück dazu war die Enthauptung des Schlächters durch den alten König früher an der Quelle.
 
 ### Das zweite Siegel
-Das zweite Siegel ist der Königsgeist, der über die Toten wacht und sie im Falle eines Zerbrechens des ersten Siegels vom auferstehen abhält. Werden seine Überreste verbrannt, gibt es nur noch das dritte Siegel, das **Radament** vor dem Auferstehen abhält. Das Gegenstück dazu war der Tod des alten Königs, der fortan aüber die Toten wacht.
+Das zweite Siegel ist der Königsgeist selbst, der über die Toten wacht und sie im Falle eines Zerbrechens des ersten Siegels vom auferstehen abhält. Werden seine Überreste verbrannt, gibt es nur noch das dritte Siegel, das **Radament** vor dem Auferstehen abhält. Das Gegenstück dazu war der Tod des alten Königs, der fortan aüber die Toten wacht.
 
 ### Das dritte Siegel
 Die kleine **Ari**, ein kleines unschuldiges Mädchen, das von **Thallian** gopfert wird. Hier war das Gegenstück die Opferung des einzigen Kindes, daß der alte König hatte, seine Tochter. Damit sollte **Radament** auf ewig gebunden sein.
@@ -886,35 +1066,11 @@ Die kleine **Ari**, ein kleines unschuldiges Mädchen, das von **Thallian** gopf
 
 \page
 
-# Thallians
-
-<div class='wide'>
-<img 
-  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/thallians.png?raw=true'
-   />
-<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
-  />
-</div>
-
-\page
-
 # Burg des Königs - 1
 
 <div class='wide'>
 <img 
   src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/burg-des-koenigs-1.png?raw=true'
-   />
-<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
-  />
-</div>
-
-\page
-
-# Burg des Königs - 2
-
-<div class='wide'>
-<img 
-  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/burg-des-koenigs-2.png?raw=true'
    />
 <img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
   />
@@ -931,59 +1087,3 @@ Die kleine **Ari**, ein kleines unschuldiges Mädchen, das von **Thallian** gopf
 <img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
   />
 </div>
-
-\page
-
-# Kanalisation - 2
-
-<div class='wide'>
-<img 
-  src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/kanalisation-2.png?raw=true'
-   />
-<img src='https://github.com/mlieshoff/thewalking/blob/master/dsa1/radament/legende.gif?raw=true' 
-  />
-</div>
-
-\page
-
-
-<div class='toc'>
-##### Table Of Contents
-- **[1 Die Legende von Radament](#p1)**
-  - [1.1 Handlungsstrang](#p1)
-  - [1.2 In der Schenke](#p2)
-  - [1.3 Am Morgen des Aufbruchs](#p2)
-  - [1.4 Tag 1](#p2)
-  - [1.5 Tag 2](#p2)
-  - [1.6 Tag 3](#p3)
-  - [1.7 Die Ankunft im Dorf](#p3)
-  - [1.8 Die Quelle](#p4)
-  - [1.9 Wieder in der Schenke](#p4)
-  - [1.10 Der Ursprung der Quelle](#p5)
-  - [1.11 Die Suche nach den Goblins](#p6)
-    - [1.11.1 Die Goblinhöhle](#p6)
-  - [1.12 Zurück im Dorf](#p8)
-  - [1.13 Der Friedhof](#p8)
-  - [1.14 Wieder im Dorf](#p8)
-  - [1.15 Das Königsgrab](#p8)
-  - [1.16 Verbannen des Königsgeistes](#p8)
-  - [1.17 Das Erwachen der Toten](#p8)
-  - [1.18 Der Unterschlupf des Dorfmagiers](#p8)
-  - [1.19 Radaments Erwachen](#p8)
-  - [1.20 Beratung im Dorf](#p8)
-  - [1.21 Die Burg des Königs](#p8)
-  - [1.22 Die alte Stadt](#p8)
-  - [1.23 Showdown](#p8)
-  - [1.24 Das Ende](#p8)
-  - [1.25 Karten](#p9)
-- **[2 Ursprung der Quelle](#p9)**
-- **[3 Goblinhöhle](#p10)**
-- **[4 Königsbrab - 1](#p11)**
-- **[5 Königsbrab - 2](#p12)**
-- **[6 Thallians](#p13)**
-- **[7 Burg des Königs - 1](#p14)**
-- **[8 Burg des Königs - 2](#p15)**
-- **[9 Kanalisation - 1](#p16)**
-- **[10 Kanalisation - 2](#p17)**
-</div>
-
